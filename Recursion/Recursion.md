@@ -11,7 +11,3 @@
 - `C`, `C++`support tail’s optimization
 - `Java`, `Python` not support
 - 
-
-[[Kth Symbol in Grammar]]
-
-[[Backtracking]]
