@@ -1,0 +1,10 @@
+Project:: Leetcode
+Progress:: Completed
+Difficulty:: 
+Tags:: 
+Sites:: [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/description/), [Longest Repeating Character Replacement - Leetcode 424 - Python - YouTube](https://www.youtube.com/watch?v=gqXU1UyA8pk)
+BackLinks:: 
+Note:: 
+
+---
+![[Pasted image 20240110043137.png]]
