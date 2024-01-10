@@ -37,6 +37,7 @@
 📄 [[Leetcode/392. Is Subsequence|392. Is Subsequence]]
 📄 [[Leetcode/392.is-subsequence.py|392.is-subsequence.py]]
 📄 [[Leetcode/424. Longest Repeating Character Replacement|424. Longest Repeating Character Replacement]]
+📄 [[Leetcode/567. Permutation in String|567. Permutation in String]]
 📄 [[Leetcode/647. Palindromic Substrings|647. Palindromic Substrings]]
 📄 [[Leetcode/647.palindromic-substrings.cpp|647.palindromic-substrings.cpp]]
 📄 [[Leetcode/647.palindromic-substrings.py|647.palindromic-substrings.py]]
