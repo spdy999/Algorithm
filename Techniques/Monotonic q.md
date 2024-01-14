@@ -1,0 +1,4 @@
+## Description
+### GPT 4 summary
+A monotonic queue is a data structure similar to a regular queue but maintains its elements in a <mark style="background: #FF5582A6;">sorted order</mark>, either <mark style="background: #FFB86CA6;">non-increasing</mark>( #Decreasing ) or <mark style="background: #FFB86CA6;">non-decreasing</mark>( #Increasing ). This sorting allows for fast retrieval of the minimum or maximum element, ideal for problems like identifying extremities within a [[Sliding Window]] across a dataset. It typically utilizes a [[Deque]] (double-ended queue) to efficiently add and remove items while preserving order.
+- Seems like this is refer to [[239. Sliding Window Maximum]]
