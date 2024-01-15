@@ -47,6 +47,7 @@
 📄 [[Leetcode/647. Palindromic Substrings|647. Palindromic Substrings]]
 📄 [[Leetcode/647.palindromic-substrings.cpp|647.palindromic-substrings.cpp]]
 📄 [[Leetcode/647.palindromic-substrings.py|647.palindromic-substrings.py]]
+📄 [[Leetcode/704. Binary Search|704. Binary Search]]
 📄 [[Leetcode/740. Delete and Earn 2023-12-18 15.55.05.excalidraw|740. Delete and Earn 2023-12-18 15.55.05.excalidraw]]
 📄 [[Leetcode/740. Delete and Earn|740. Delete and Earn]]
 📄 [[Leetcode/740.delete-and-earn.py|740.delete-and-earn.py]]
