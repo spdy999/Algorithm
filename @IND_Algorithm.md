@@ -10,6 +10,7 @@
 📄 [[Untitled.png|Untitled.png]]
 🗂️ ![[BigO notation/@IND_BigO notation|@IND_BigO notation]]
 🗂️ ![[Competitive programming/@IND_Competitive programming|@IND_Competitive programming]]
+🗂️ ![[Daily Notes/@IND_Daily Notes|@IND_Daily Notes]]
 🗂️ ![[Data structures/@IND_Data structures|@IND_Data structures]]
 🗂️ ![[Leetcode/@IND_Leetcode|@IND_Leetcode]]
 🗂️ ![[Obsidian Templates/@IND_Obsidian Templates|@IND_Obsidian Templates]]
