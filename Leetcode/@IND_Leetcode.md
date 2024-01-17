@@ -61,6 +61,8 @@
 📄 [[Leetcode/746.min-cost-climbing-stairs.cpp|746.min-cost-climbing-stairs.cpp]]
 📄 [[Leetcode/746.min-cost-climbing-stairs.py|746.min-cost-climbing-stairs.py]]
 📄 [[Leetcode/746.min-cost-climbing-stairs.txt|746.min-cost-climbing-stairs.txt]]
+📄 [[Leetcode/875. Koko Eating Bananas|875. Koko Eating Bananas]]
+📄 [[Leetcode/875.koko-eating-bananas.py|875.koko-eating-bananas.py]]
 📄 [[Leetcode/1137.n-th-tribonacci-number.py|1137.n-th-tribonacci-number.py]]
 📄 [[Leetcode/1137.n-th-tribonacci-number|1137.n-th-tribonacci-number]]
 📄 [[Leetcode/1143.longest-common-subsequence.py|1143.longest-common-subsequence.py]]
