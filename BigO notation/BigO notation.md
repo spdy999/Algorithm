@@ -1,4 +1,3 @@
-# BigO notation
 
 [https://www.youtube.com/watch?v=__vX2sjlpXU](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
