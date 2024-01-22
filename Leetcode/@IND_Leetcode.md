@@ -16,6 +16,8 @@
 📄 [[Leetcode/76. Minimum Window Substring|76. Minimum Window Substring]]
 📄 [[Leetcode/88.merge-sorted-array.py|88.merge-sorted-array.py]]
 📄 [[Leetcode/88.merge-sorted-array.txt|88.merge-sorted-array.txt]]
+📄 [[Leetcode/100. Same Tree|100. Same Tree]]
+📄 [[Leetcode/104. Maximum Depth of Binary Tree|104. Maximum Depth of Binary Tree]]
 📄 [[Leetcode/118.pascals-triangle.py|118.pascals-triangle.py]]
 📄 [[Leetcode/119.pascals-triangle-ii.py|119.pascals-triangle-ii.py]]
 📄 [[Leetcode/121. Best Time to Buy and Sell Stock|121. Best Time to Buy and Sell Stock]]
