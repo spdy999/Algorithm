@@ -2,9 +2,9 @@
 
 [Binary Search Tree - GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
-![[/Untitled.png]]%20925cf15c78ee4813a03e28fa75182ec7/Untitled.png)
+![[/Untitled.png]]
 
-![[Betta/Untitled]]%20925cf15c78ee4813a03e28fa75182ec7/Untitled%201.png)
+![[Data structures/Tree/Binary Tree/Untitled.png]]
 
 - ~~The **left** child always has a **smaller value** than its parent~~
 - ~~The **right** child always has a **larger value** than its parent~~
@@ -25,9 +25,6 @@
 - min 31.12
 - หาร 2 เรื่อยๆ
 
-<aside>
-💡 **inorder** traversal in BST will be in **ascending** order
-
-</aside>
+💡 [[Depth First Search (DFS)#**Inorder**|Inorder]] traversal in BST will be in **ascending** order
 
 [[Delete Node in [[Delete Node in BST]]
