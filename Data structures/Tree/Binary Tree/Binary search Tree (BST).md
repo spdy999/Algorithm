@@ -1,5 +1,3 @@
-# Binary search Tree (BST)
-
 [Binary Search Tree - GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
 ![[/Untitled.png]]
