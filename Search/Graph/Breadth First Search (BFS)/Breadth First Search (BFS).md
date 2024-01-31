@@ -1,10 +1,6 @@
-[[BFS  Breadth First Search.pdf]]%20094bf6758b7f43868224f36a2f4bde04/BFS__Breadth_First_Search.pdf)
-
-![[/Untitled.png]]%20094bf6758b7f43868224f36a2f4bde04/Untitled.png)
-
 [https://www.youtube.com/watch?v=oDqjPvD54Ss&t=4s&ab_channel=WilliamFiset](https://www.youtube.com/watch?v=oDqjPvD54Ss&t=4s&ab_channel=WilliamFiset)
 
-- Use a **queue** data structure
+- Use a **[[Queue]]** data structure
 - time complexity $O(V+E)$  < = eq to DFS
     - particularly useful for one thing: finding the **shortest path on unweighted graphs.**
 
