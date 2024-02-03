@@ -54,6 +54,7 @@
 📄 [[Leetcode/392. Is Subsequence|392. Is Subsequence]]
 📄 [[Leetcode/392.is-subsequence.py|392.is-subsequence.py]]
 📄 [[Leetcode/424. Longest Repeating Character Replacement|424. Longest Repeating Character Replacement]]
+📄 [[Leetcode/543. Diameter of Binary Tree|543. Diameter of Binary Tree]]
 📄 [[Leetcode/567. Permutation in String 2024-01-12 01.54.44.excalidraw (conflict 2024-01-12-02-17-28)|567. Permutation in String 2024-01-12 01.54.44.excalidraw (conflict 2024-01-12-02-17-28)]]
 📄 [[Leetcode/567. Permutation in String 2024-01-12 01.54.44.excalidraw|567. Permutation in String 2024-01-12 01.54.44.excalidraw]]
 📄 [[Leetcode/567. Permutation in String|567. Permutation in String]]
