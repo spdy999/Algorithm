@@ -23,6 +23,6 @@
 - min 31.12
 - หาร 2 เรื่อยๆ
 
-💡 [[Depth First Search (DFS)#**Inorder**|Inorder]] traversal in BST will be in **ascending** order
+💡 [[DFS#**Inorder**|Inorder]] traversal in BST will be in **ascending** order
 
 [[Delete Node in [[Delete Node in BST]]
