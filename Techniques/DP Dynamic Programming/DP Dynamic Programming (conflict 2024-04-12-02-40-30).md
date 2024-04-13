@@ -15,8 +15,8 @@
 2. #Bottom-Up : **Tabulation, Loop,** faster (no recursion)
 
 Summary:
-- #Top-Down  => Recursion, slow
-- #Bottom-Up  => Iteration, fast
+- #Top-Down  => Recursion
+- #Bottom-Up  => Iteration
 
 
 # When to use

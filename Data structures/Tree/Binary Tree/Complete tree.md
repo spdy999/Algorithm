@@ -1,4 +1,3 @@
-# Complete tree
 
 <aside>
 💡 Every level has to be full, **except the last one**

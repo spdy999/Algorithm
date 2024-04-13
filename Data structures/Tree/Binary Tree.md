@@ -1,4 +1,3 @@
-# Binary Tree
 
 [Binary tree - Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
 
