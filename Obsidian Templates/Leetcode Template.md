@@ -4,9 +4,10 @@ Date:: {{date}}
 Difficulty:: 
 BigO:: 
 Tags:: 
-BackLinks:: 
+Techniques:: 
 Sites:: [Leetcode]()
 Walkthrough:: 
+Related problems::
 Code:: 
 Note:: 
 
