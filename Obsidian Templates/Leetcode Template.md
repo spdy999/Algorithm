@@ -7,7 +7,7 @@ Tags::
 Techniques:: 
 Sites:: [Leetcode]()
 Walkthrough:: 
-Related problems::
+Related problems:: 
 Code:: 
 Note:: 
 
