@@ -107,6 +107,7 @@
 📄 [[Leetcode/647.palindromic-substrings.cpp|647.palindromic-substrings.cpp]]
 📄 [[Leetcode/647.palindromic-substrings.py|647.palindromic-substrings.py]]
 📄 [[Leetcode/704. Binary Search 2024-01-16 01.24.27.excalidraw|704. Binary Search 2024-01-16 01.24.27.excalidraw]]
+📄 [[Leetcode/704. Binary Search 2024-04-16 14.50.10.excalidraw|704. Binary Search 2024-04-16 14.50.10.excalidraw]]
 📄 [[Leetcode/704. Binary Search|704. Binary Search]]
 📄 [[Leetcode/704.binary-search.py|704.binary-search.py]]
 📄 [[Leetcode/740. Delete and Earn 2023-12-18 15.55.05.excalidraw|740. Delete and Earn 2023-12-18 15.55.05.excalidraw]]
