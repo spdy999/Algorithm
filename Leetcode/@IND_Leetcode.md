@@ -106,6 +106,7 @@
 📄 [[Leetcode/567. Permutation in String 2024-04-16 03.33.08.excalidraw|567. Permutation in String 2024-04-16 03.33.08.excalidraw]]
 📄 [[Leetcode/567. Permutation in String|567. Permutation in String]]
 📄 [[Leetcode/567.permutation-in-string.py|567.permutation-in-string.py]]
+📄 [[Leetcode/572. Subtree of Another Tree|572. Subtree of Another Tree]]
 📄 [[Leetcode/647. Palindromic Substrings|647. Palindromic Substrings]]
 📄 [[Leetcode/647.palindromic-substrings.cpp|647.palindromic-substrings.cpp]]
 📄 [[Leetcode/647.palindromic-substrings.py|647.palindromic-substrings.py]]
