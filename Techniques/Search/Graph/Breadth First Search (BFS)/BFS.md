@@ -6,11 +6,10 @@
 
 - Breadth First or [Level Order Traversal](https://en.wikipedia.org/wiki/Tree_traversal): 1 2 3 4 5
     
-    ![[Techniques/Search/Graph/Breadth First Search (BFS)/Untitled.png]]
+    ![[./Untitled.png]]
 	
     ![[BFS__Breadth_First_Search_211218_212241.jpg.jpg]]
     
     # Steps
-    
     - queue
     - visited
