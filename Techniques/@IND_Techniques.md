@@ -2,6 +2,7 @@
 📄 [[Techniques/2 pointers - Sliding Window|2 pointers - Sliding Window]]
 📄 [[Techniques/Greedy algo|Greedy algo]]
 📄 [[Techniques/Monotonic q|Monotonic q]]
+📄 [[Techniques/Stack|Stack]]
 🗂️ ![[Techniques/DP Dynamic Programming/@IND_DP Dynamic Programming|@IND_DP Dynamic Programming]]
 🗂️ ![[Techniques/Recursion/@IND_Recursion|@IND_Recursion]]
 🗂️ ![[Techniques/Search/@IND_Search|@IND_Search]]

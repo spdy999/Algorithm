@@ -7,8 +7,6 @@
 📄 [[Pasted image 20231215054042.png|Pasted image 20231215054042.png]]
 📄 [[Pasted image 20231217225756.png|Pasted image 20231217225756.png]]
 📄 [[Pasted image 20231217225833.png|Pasted image 20231217225833.png]]
-📄 [[Stack 1|Stack 1]]
-📄 [[Stack|Stack]]
 📄 [[Untitled.png|Untitled.png]]
 🗂️ ![[BigO notation/@IND_BigO notation|@IND_BigO notation]]
 🗂️ ![[Competitive programming/@IND_Competitive programming|@IND_Competitive programming]]
