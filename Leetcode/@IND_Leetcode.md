@@ -87,6 +87,7 @@
 📄 [[Leetcode/125. Valid Palindrome 2024-04-13 17.08.49.excalidraw|125. Valid Palindrome 2024-04-13 17.08.49.excalidraw]]
 📄 [[Leetcode/125. Valid Palindrome|125. Valid Palindrome]]
 📄 [[Leetcode/125.valid-palindrome.py|125.valid-palindrome.py]]
+📄 [[Leetcode/138. Copy List with Random Pointer|138. Copy List with Random Pointer]]
 📄 [[Leetcode/139. Word Break|139. Word Break]]
 📄 [[Leetcode/139.word-break.py|139.word-break.py]]
 📄 [[Leetcode/143. Reorder List 2024-05-28 13.47.17.excalidraw|143. Reorder List 2024-05-28 13.47.17.excalidraw]]
