@@ -29,3 +29,6 @@ Summary:
 - What is the longest possible...
 - Is it possible o reach a certain point...
 
+
+
+![[DP 2024-04-30 09.27.20.excalidraw]]

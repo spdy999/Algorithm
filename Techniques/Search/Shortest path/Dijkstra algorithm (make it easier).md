@@ -1,4 +1,3 @@
-# Dijkstra algorithm (make it easier)
 
 ![[/Untitled.png]]%2040acd54be109480487136e3be0687a39/Untitled.png)
 
