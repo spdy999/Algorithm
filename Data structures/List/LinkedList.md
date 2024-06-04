@@ -5,4 +5,4 @@
 
 [[Doubly linked list]]
 
-[[Skip list]]
+[[Skip list]][[]]
