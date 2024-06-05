@@ -1,4 +1,3 @@
-# Set
 
 > Can't store duplicate data
 > 
