@@ -5,8 +5,8 @@ Difficulty::
 Time:: 
 Space:: 
 Tags:: 
-Techniques:: 
 Topic:: 
+Techniques:: 
 Sites:: [Leetcode]()
 Walkthrough:: 
 Related problems:: 
