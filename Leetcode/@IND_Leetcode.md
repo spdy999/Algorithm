@@ -97,7 +97,7 @@
 📄 [[Leetcode/143. Reorder List 2024-05-28 13.47.17.excalidraw|143. Reorder List 2024-05-28 13.47.17.excalidraw]]
 📄 [[Leetcode/143. Reorder List|143. Reorder List]]
 📄 [[Leetcode/143.reorder-list.py|143.reorder-list.py]]
-📄 [[Leetcode/146. LRU Cache2|146. LRU Cache2]]
+📄 [[Leetcode/146. LRU Cache|146. LRU Cache]]
 📄 [[Leetcode/153. Find Minimum in Rotated Sorted Array 2024-04-13 17.34.58.excalidraw|153. Find Minimum in Rotated Sorted Array 2024-04-13 17.34.58.excalidraw]]
 📄 [[Leetcode/153. Find Minimum in Rotated Sorted Array|153. Find Minimum in Rotated Sorted Array]]
 📄 [[Leetcode/153.find-minimum-in-rotated-sorted-array.py|153.find-minimum-in-rotated-sorted-array.py]]
