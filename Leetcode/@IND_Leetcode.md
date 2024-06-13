@@ -180,6 +180,7 @@
 📄 [[Leetcode/746.min-cost-climbing-stairs.txt|746.min-cost-climbing-stairs.txt]]
 📄 [[Leetcode/875. Koko Eating Bananas|875. Koko Eating Bananas]]
 📄 [[Leetcode/875.koko-eating-bananas.py|875.koko-eating-bananas.py]]
+📄 [[Leetcode/981. Time Based Key-Value Store|981. Time Based Key-Value Store]]
 📄 [[Leetcode/1137.n-th-tribonacci-number_loop.py|1137.n-th-tribonacci-number_loop.py]]
 📄 [[Leetcode/1137.n-th-tribonacci-number_rec.py|1137.n-th-tribonacci-number_rec.py]]
 📄 [[Leetcode/1137.n-th-tribonacci-number.py|1137.n-th-tribonacci-number.py]]
