@@ -13,6 +13,7 @@
 🗂️ ![[Daily Notes/@IND_Daily Notes|@IND_Daily Notes]]
 🗂️ ![[Data structures/@IND_Data structures|@IND_Data structures]]
 🗂️ ![[Leetcode/@IND_Leetcode|@IND_Leetcode]]
+🗂️ ![[Math Trivia/@IND_Math Trivia|@IND_Math Trivia]]
 🗂️ ![[Obsidian Templates/@IND_Obsidian Templates|@IND_Obsidian Templates]]
 🗂️ ![[Techniques/@IND_Techniques|@IND_Techniques]]
 🗂️ [[Excalidraw/@IND_Excalidraw|@IND_Excalidraw]]
