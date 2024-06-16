@@ -100,6 +100,7 @@
 📄 [[Leetcode/146. LRU Cache 2024-06-13 13.24.41.excalidraw|146. LRU Cache 2024-06-13 13.24.41.excalidraw]]
 📄 [[Leetcode/146. LRU Cache|146. LRU Cache]]
 📄 [[Leetcode/146.lru-cache.py|146.lru-cache.py]]
+📄 [[Leetcode/150. Evaluate Reverse Polish Notation|150. Evaluate Reverse Polish Notation]]
 📄 [[Leetcode/153. Find Minimum in Rotated Sorted Array 2024-04-13 17.34.58.excalidraw|153. Find Minimum in Rotated Sorted Array 2024-04-13 17.34.58.excalidraw]]
 📄 [[Leetcode/153. Find Minimum in Rotated Sorted Array|153. Find Minimum in Rotated Sorted Array]]
 📄 [[Leetcode/153.find-minimum-in-rotated-sorted-array.py|153.find-minimum-in-rotated-sorted-array.py]]
