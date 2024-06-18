@@ -5,9 +5,12 @@
     
     
     ![[/Untitled.png]]
-    
-- **Max heap**: Every parent is **≥** to its children
-- **Min heap**: Every parent is **≤** its children
+
+
+## Max heap
+Every parent is **≥** to its children
+## Min heap
+Every parent is **≤** its children
 
 - The **maximum** or **minimum** value will always be at the root of the tree - the advantage of using a heap
 - Time complexity
