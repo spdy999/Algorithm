@@ -1,5 +1,5 @@
 Project:: Leetcode
-Progress:: Completed
+Progress:: Completed?? Try neet code it's easier and faster
 Date:: 2024-06-21
 Difficulty:: #Medium 
 Time:: `O(2^n)`
