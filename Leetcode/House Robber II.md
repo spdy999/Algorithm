@@ -6,13 +6,13 @@ Time:: `O(2^n)`
 Space:: `O(n)`
 Tags:: 
 Topic:: [[DP]]
-Techniques:: [[DP]]
+Techniques:: [[DP#Bottom-Up]]
 Sites:: [Leetcode](https://leetcode.com/problems/house-robber-ii/description/)
-Walkthrough:: 
-Related problems:: 
+Walkthrough:: [House Robber II - Dynamic Programming - Leetcode 213 - YouTube](https://www.youtube.com/watch?v=rWAJCfYYOvM)
+Related problems:: [[198. House Robber]]
 Companies:: #Company/Google
 Code:: 
-Note:: I think I wrote it by myself but should read from Neet for a better way
+Note:: DP from neet is easy to read and memorize but a bit confused to understand the concept (why it looks like Greedy?)
 
 ---
 
