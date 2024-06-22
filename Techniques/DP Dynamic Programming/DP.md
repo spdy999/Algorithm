@@ -12,8 +12,10 @@
 [[Divide and Conquer (D&C)]]
 
 # Two way
-1. #Top-Down : **Memoization, Recursive**(easier to write 🙄), slower
-2. #Bottom-Up : **Tabulation, Loop,** faster (no recursion)
+## #Top-Down 
+**Memoization, Recursive**(easier to write 🙄), slower
+## #Bottom-Up 
+**Tabulation, Loop,** faster (no recursion)
 
 Summary:
 - #Top-Down  => Recursion, slow
