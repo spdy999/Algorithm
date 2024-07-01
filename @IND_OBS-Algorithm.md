@@ -6,6 +6,7 @@
 📄 [[Pasted image 20231215054042.png|Pasted image 20231215054042.png]]
 📄 [[Pasted image 20231217225756.png|Pasted image 20231217225756.png]]
 📄 [[Pasted image 20231217225833.png|Pasted image 20231217225833.png]]
+📄 [[Untitled.canvas|Untitled.canvas]]
 📄 [[Untitled.png|Untitled.png]]
 📄 [[Untitled|Untitled]]
 🗂️ ![[BigO notation/@IND_BigO notation|@IND_BigO notation]]
