@@ -1,3 +1,6 @@
+- is BruteForce
+- Usually traverse tree with [[DFS]]
+
 # Backtracking
 
 [[Permutation & Combination]]
