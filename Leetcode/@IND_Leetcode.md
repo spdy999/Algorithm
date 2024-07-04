@@ -93,6 +93,7 @@
 📄 [[Leetcode/125. Valid Palindrome 2024-04-13 17.08.49.excalidraw|125. Valid Palindrome 2024-04-13 17.08.49.excalidraw]]
 📄 [[Leetcode/125. Valid Palindrome|125. Valid Palindrome]]
 📄 [[Leetcode/125.valid-palindrome.py|125.valid-palindrome.py]]
+📄 [[Leetcode/128. Longest Consecutive Sequence|128. Longest Consecutive Sequence]]
 📄 [[Leetcode/131. Palindrome Partitioning 2024-07-02 21.22.59.excalidraw|131. Palindrome Partitioning 2024-07-02 21.22.59.excalidraw]]
 📄 [[Leetcode/131. Palindrome Partitioning|131. Palindrome Partitioning]]
 📄 [[Leetcode/131.palindrome-partitioning.py|131.palindrome-partitioning.py]]
