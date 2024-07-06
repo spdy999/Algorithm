@@ -204,6 +204,7 @@
 📄 [[Leetcode/572. Subtree of Another Tree|572. Subtree of Another Tree]]
 📄 [[Leetcode/572.subtree-of-another-tree_dfs_bfs.py|572.subtree-of-another-tree_dfs_bfs.py]]
 📄 [[Leetcode/572.subtree-of-another-tree_dfs_dfs.py|572.subtree-of-another-tree_dfs_dfs.py]]
+📄 [[Leetcode/621. Task Scheduler|621. Task Scheduler]]
 📄 [[Leetcode/647. Palindromic Substrings 2024-04-20 00.34.46.excalidraw|647. Palindromic Substrings 2024-04-20 00.34.46.excalidraw]]
 📄 [[Leetcode/647. Palindromic Substrings|647. Palindromic Substrings]]
 📄 [[Leetcode/647.palindromic-substrings.cpp|647.palindromic-substrings.cpp]]
