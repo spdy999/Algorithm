@@ -61,6 +61,7 @@
 📄 [[Leetcode/79. Word Search 2024-04-12 18.53.08.excalidraw|79. Word Search 2024-04-12 18.53.08.excalidraw]]
 📄 [[Leetcode/79. Word Search|79. Word Search]]
 📄 [[Leetcode/79.word-search.py|79.word-search.py]]
+📄 [[Leetcode/84. Largest Rectangle in Histogram|84. Largest Rectangle in Histogram]]
 📄 [[Leetcode/88. Merge Sorted Array|88. Merge Sorted Array]]
 📄 [[Leetcode/88.merge-sorted-array.py|88.merge-sorted-array.py]]
 📄 [[Leetcode/88.merge-sorted-array.txt|88.merge-sorted-array.txt]]
