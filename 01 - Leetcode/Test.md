@@ -2,7 +2,7 @@
 Project: Leetcode
 Progress: true
 Date: 2024-07-10
-Modified: 2024-07-10
+Updated: 2024-07-10
 Time: O(n)
 Space: O(n)
 Topic:

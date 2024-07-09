@@ -3,7 +3,7 @@ Project: Leetcode
 Progress: 
 Date:
   "{ date:YYYY-MM-DD }": 
-Modified: 
+Updated: 
 Difficulty: 
 Time: 
 Space: 
