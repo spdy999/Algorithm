@@ -1,8 +1,8 @@
 
 ```dataview
-TABLE Progress, Date, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough, Companies
+TABLE Date, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough, Companies
 FROM -"Obsidian Templates"
-WHERE project="Leetcode" and progress!="InCompleted"
+WHERE project="Leetcode" and progress=true
 SORT progress desc, date desc
 ```
 

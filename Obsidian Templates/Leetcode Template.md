@@ -1,6 +1,6 @@
 ---
 Project: Leetcode
-Finished: "true"
+Progress: 
 Date:
   "{ date:YYYY-MM-DD }": 
 Modified: 
