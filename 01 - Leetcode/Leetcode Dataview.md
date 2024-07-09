@@ -1,6 +1,6 @@
 
 ```dataview
-TABLE Date, Modified, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough, Companies
+TABLE Created, Updated, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough, Companies
 FROM -"Obsidian Templates"
 WHERE project="Leetcode" and progress=true
 SORT modified desc
