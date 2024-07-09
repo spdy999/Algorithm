@@ -1,17 +1,16 @@
-Project:: Leetcode
-Progress:: Completed
-Date:: {{date}}
-Difficulty:: 
-Time:: 
-Space:: 
-Tags:: 
-Topic:: 
-Techniques:: 
-Sites:: [Leetcode]()
-Walkthrough:: [Neetcode]()
-Related problems:: 
-Companies:: 
-Code:: 
-Note:: 
-
+---
+Project: Leetcode
+Progress: Completed
+Date:
+  "{ date:YYYY-MM-DD }": 
+Modified: 
+Difficulty: 
+Time: 
+Space: 
+tags: 
+Topic: 
+Techniques: 
+Related problems: 
+Code: 
+Note:
 ---
