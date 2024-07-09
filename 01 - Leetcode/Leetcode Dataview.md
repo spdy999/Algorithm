@@ -1,9 +1,12 @@
+---
+Updated: 2024-07-10
+---
 
 ```dataview
-TABLE Created, Updated, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough, Companies
+TABLE Created, Updated, Difficulty, Techniques, Note, Sites, Walkthrough, Companies
 FROM -"Obsidian Templates"
 WHERE project="Leetcode" and progress=true
-SORT modified desc, created desc
+SORT updated desc, created desc
 ```
 
 
