@@ -1,3 +1,6 @@
+---
+Updated: 2024-07-11
+---
 # LinkedList
 
 [Singly Linked-List
