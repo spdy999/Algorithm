@@ -1,8 +1,7 @@
 ---
 Project: Leetcode
 Progress: 
-Date:
-  "{ date:YYYY-MM-DD }": 
+Created: "{{date:YYYY-MM-DD}}"
 Updated: 
 Difficulty: 
 Time: 
@@ -14,7 +13,3 @@ Code:
 Note: 
 tags:
 ---
-
-
-<mark style="background: #FFB86CA6;">abcdfd</mark>
-
