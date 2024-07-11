@@ -1,5 +1,5 @@
 ---
-Updated: 2024-07-10
+Updated: 2024-07-11
 ---
 
 ```dataview
@@ -11,10 +11,10 @@ SORT updated desc, created desc
 
 
 ```dataview
-TABLE Progress, Date, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough
+TABLE Progress, Created, Updated, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough
 FROM -"Obsidian Templates"
-WHERE project="Leetcode" and progress!="Completed" and progress!=true
-SORT progress desc, date desc
+WHERE project="Leetcode" and progress!=true
+SORT progress desc, updated desc
 ```
 
 
