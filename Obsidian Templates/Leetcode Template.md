@@ -6,7 +6,7 @@ Updated:
 Difficulty: 
 Time: 
 Space: 
-Topic: 
+Topics: 
 Techniques: 
 Related problems: 
 Code: 
