@@ -1,3 +1,6 @@
+---
+Updated: 2024-07-14
+---
 # Depth First Search (DFS)
 
 ![[/Untitled.png]]%20153ce2c90d75441ba8d4a2d5be65eea6/Untitled.png)
@@ -8,8 +11,7 @@
     - Nodes + Edges
 
 # [Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
-
-![[Betta/Untitled]]%20153ce2c90d75441ba8d4a2d5be65eea6/Untitled%201.png)
+![[04 - Techniques/Search/Graph/Depth First Search (DFS)/Untitled.png]]
 
 - **Preorder** (Root, Left, Right)
 - **Inorder** (Left, Root, Right)
