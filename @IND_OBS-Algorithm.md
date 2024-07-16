@@ -16,6 +16,7 @@
 🗂️ ![[03 - BigO notation/@IND_03 - BigO notation|@IND_03 - BigO notation]]
 🗂️ ![[04 - Techniques/@IND_04 - Techniques|@IND_04 - Techniques]]
 🗂️ ![[05 - Math Trivia/@IND_05 - Math Trivia|@IND_05 - Math Trivia]]
+🗂️ ![[07 - Omnivore/@IND_07 - Omnivore|@IND_07 - Omnivore]]
 🗂️ ![[Competitive programming/@IND_Competitive programming|@IND_Competitive programming]]
 🗂️ ![[Daily Notes/@IND_Daily Notes|@IND_Daily Notes]]
 🗂️ ![[Obsidian Templates/@IND_Obsidian Templates|@IND_Obsidian Templates]]
