@@ -2,7 +2,7 @@
 Project: Leetcode
 Progress: 
 Created: "{{date:YYYY-MM-DD}}"
-Updated: 2024-07-16
+Updated: 2024-07-17
 Difficulty: 
 Time: 
 Space: 
@@ -16,4 +16,4 @@ Companies:
 Note: 
 tags: 
 ---
-# {{ title }}
+# {{title}}
