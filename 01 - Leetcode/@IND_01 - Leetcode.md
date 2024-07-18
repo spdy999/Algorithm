@@ -152,6 +152,8 @@
 📄 [[01 - Leetcode/206. Reverse Linked List|206. Reverse Linked List]]
 📄 [[01 - Leetcode/206.reverse-linked-list_loop.py|206.reverse-linked-list_loop.py]]
 📄 [[01 - Leetcode/206.reverse-linked-list_rec.py|206.reverse-linked-list_rec.py]]
+📄 [[01 - Leetcode/208. Implement Trie (Prefix Tree) 2024-07-18 19.17.54.excalidraw|208. Implement Trie (Prefix Tree) 2024-07-18 19.17.54.excalidraw]]
+📄 [[01 - Leetcode/208. Implement Trie (Prefix Tree).mht|208. Implement Trie (Prefix Tree).mht]]
 📄 [[01 - Leetcode/208. Implement Trie (Prefix Tree)|208. Implement Trie (Prefix Tree)]]
 📄 [[01 - Leetcode/213. House Robber II|213. House Robber II]]
 📄 [[01 - Leetcode/213.house-robber-ii_dp_bottomup.py|213.house-robber-ii_dp_bottomup.py]]
