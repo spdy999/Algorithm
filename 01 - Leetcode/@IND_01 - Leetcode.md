@@ -255,6 +255,7 @@
 📄 [[01 - Leetcode/853.car-fleet.py|853.car-fleet.py]]
 📄 [[01 - Leetcode/875. Koko Eating Bananas|875. Koko Eating Bananas]]
 📄 [[01 - Leetcode/875.koko-eating-bananas.py|875.koko-eating-bananas.py]]
+📄 [[01 - Leetcode/973. K Closest Points to Origin 2024-07-19 22.58.31.excalidraw|973. K Closest Points to Origin 2024-07-19 22.58.31.excalidraw]]
 📄 [[01 - Leetcode/973. K Closest Points to Origin|973. K Closest Points to Origin]]
 📄 [[01 - Leetcode/973.k-closest-points-to-origin_Oklogn.py|973.k-closest-points-to-origin_Oklogn.py]]
 📄 [[01 - Leetcode/973.k-closest-points-to-origin_Onlogk.py|973.k-closest-points-to-origin_Onlogk.py]]
