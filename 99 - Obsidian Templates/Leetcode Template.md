@@ -1,6 +1,6 @@
 ---
 Project: Leetcode
-Progress: 
+Progress: false
 Created: "{{date:YYYY-MM-DD}}"
 Updated: 2024-07-17
 Difficulty: 
