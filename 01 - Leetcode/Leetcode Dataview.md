@@ -1,6 +1,7 @@
 ---
-Updated: 2024-08-19
+Updated: 2024-08-25
 ---
+## Completed
 
 ```dataview
 TABLE Created, Updated, Difficulty, Techniques, Note, TODO, Sites, Walkthrough, Companies
@@ -9,6 +10,8 @@ WHERE project="Leetcode" and progress=true
 SORT updated desc, created desc
 ```
 
+
+## InCompleted
 
 ```dataview
 TABLE Progress, TODO, Created, Updated, Difficulty, Techniques, Note, Sites, Techniques, Walkthrough
