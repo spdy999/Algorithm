@@ -61,6 +61,7 @@
 📄 [[01 - Leetcode/52. N-Queens II|52. N-Queens II]]
 📄 [[01 - Leetcode/53. Maximum Subarray 2024-08-20 03.19.22.excalidraw|53. Maximum Subarray 2024-08-20 03.19.22.excalidraw]]
 📄 [[01 - Leetcode/53. Maximum Subarray|53. Maximum Subarray]]
+📄 [[01 - Leetcode/55. Jump Game 2024-08-26 13.46.45.excalidraw|55. Jump Game 2024-08-26 13.46.45.excalidraw]]
 📄 [[01 - Leetcode/55. Jump Game|55. Jump Game]]
 📄 [[01 - Leetcode/70. Climbing Stairs 2024-04-12 03.54.42.excalidraw|70. Climbing Stairs 2024-04-12 03.54.42.excalidraw]]
 📄 [[01 - Leetcode/70. Climbing Stairs|70. Climbing Stairs]]
