@@ -49,6 +49,8 @@
 📄 [[01 - Leetcode/42. Trapping Rain Water.mht|42. Trapping Rain Water.mht]]
 📄 [[01 - Leetcode/42. Trapping Rain Water|42. Trapping Rain Water]]
 📄 [[01 - Leetcode/42.trapping-rain-water.py|42.trapping-rain-water.py]]
+📄 [[01 - Leetcode/45. Jump Game II 2024-08-26 19.24.25.excalidraw|45. Jump Game II 2024-08-26 19.24.25.excalidraw]]
+📄 [[01 - Leetcode/45. Jump Game II|45. Jump Game II]]
 📄 [[01 - Leetcode/46. Permutations 2024-03-31 22.20.11.excalidraw|46. Permutations 2024-03-31 22.20.11.excalidraw]]
 📄 [[01 - Leetcode/46. Permutations|46. Permutations]]
 📄 [[01 - Leetcode/46.permutations.py|46.permutations.py]]
