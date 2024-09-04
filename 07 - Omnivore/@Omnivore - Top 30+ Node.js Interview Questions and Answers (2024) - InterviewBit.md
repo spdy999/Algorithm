@@ -28,6 +28,20 @@ aka Functional programming
 
 > yarn. [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#efb1f03d-3a8e-4f49-95be-adcb6e5b493e)  ^efb1f03d
 
+> package.json and package-lock.json [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#ad4412d2-d872-436e-874a-b50b452e2c02)  ^ad4412d2
+
+> Node.js better than other frameworks [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#6e1cedaa-4a76-43d3-9bd7-205b738f63a0)  ^6e1cedaa
+
+> simplicity in development [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#4682385f-dd1e-4574-904f-0c39ecb93929)  ^4682385f
+
+> non-blocking I/O and event-based model [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#1f2ef8ea-29ba-498a-954b-ed43ed71485c)  ^1f2ef8ea
+
+> short response time [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#30a991d7-e0d7-42d1-8cbc-508b8b8f6da5)  ^30a991d7
+
+> concurrent processing [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#ce6d8c2c-a817-4d54-b3fd-ef7b8710c462)  ^ce6d8c2c
+
+> other frameworks where developers have to use thread management. [⤴️](https://omnivore.app/me/https-www-interviewbit-com-node-js-interview-questions-190baa9a967#1528725f-0e26-4885-a885-f0380b739aeb)  ^1528725f
+
 
 ---
 [ ![](https://proxy-prod.omnivore-image-cache.app/0x0,st1I8z5LtW8zeA1BBQYEUcd_ZYMUOjTvhIg05zdM8WPI/https://assets.interviewbit.com/assets/ibpp/interview_guides/home-166c951f50d39c74e32bbc4f487ec04f013ff929602db205756754cb9fedea49.svg.gz) ](https://www.interviewbit.com/practice) /[ Interview Guides](https://www.interviewbit.com/technical-interview-questions) / Node.js Interview Questions 
@@ -91,9 +105,9 @@ When functions can be treated like any other variable then those functions are f
 
 It can be managed by a number of package installers and their configuration file accordingly. Out of them mostly use ==npm== or yarn. Both provide almost all libraries of javascript with extended features of controlling environment-specific configurations. To maintain versions of libs being installed in a project we use package.json and package-lock.json so that there is no issue in porting that app to a different environment.
 
-### 5\. How is Node.js better than other frameworks most popularly used?
+### 5\. How is ==Node.js better than other frameworks== most popularly used?
 
-* Node.js provides simplicity in development because of its non-blocking I/O and event-based model results in short response time and concurrent processing, unlike other frameworks where developers have to use thread management.
+* Node.js provides ==simplicity in development== because of its non-blocking I/O and event-based model results in short response time and concurrent processing, unlike other frameworks where developers have to use thread management.
 * It runs on a chrome v8 engine which is written in c++ and is highly performant with constant improvement.
 * Also since we will use Javascript in both the frontend and backend the development will be much faster.
 * And at last, there are sample libraries so that we don’t need to reinvent the wheel.
