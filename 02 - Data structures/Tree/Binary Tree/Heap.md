@@ -1,7 +1,7 @@
 # Heap
 
 - Heap is a **special** type of **[[Binary Tree]]**
-- A [[complete binary tree]]
+- A [[Complete tree]]
     
     
     ![[/Untitled.png]]
