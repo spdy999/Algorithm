@@ -1,6 +1,6 @@
 # Bubble sort
 
-- Pseodocode
+- Pseudocode
 
 ```
 		repeat until no swaps
@@ -10,7 +10,6 @@
 ```
 
 ```java
-		
     1 	static void bubbleSort(int[] lst) {
     2 		int n = lst.length;
     3 		boolean swapped;
