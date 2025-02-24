@@ -16,11 +16,13 @@ TODO:
 ---
 # CDN
 ---
+![[CDN 2025-02-24 13.22.05.excalidraw]]
 ## What
-- Global cache system
+- Global (geographically) distributed cache(or edge) server
 
 ## Why
+- Enhance delivery performance
 
 ## Usages
 - store static content nearest to users
-- 
+
