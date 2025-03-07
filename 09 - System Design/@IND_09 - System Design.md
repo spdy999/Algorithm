@@ -6,6 +6,7 @@
 📄 [[09 - System Design/IAM Management Console[peaw].pdf|IAM Management Console[peaw].pdf]]
 📄 [[09 - System Design/IAM Management Console[testIAM].pdf|IAM Management Console[testIAM].pdf]]
 📄 [[09 - System Design/Instragram|Instragram]]
+📄 [[09 - System Design/Polling|Polling]]
 📄 [[09 - System Design/System design 2024-05-23 23.29.34.excalidraw|System design 2024-05-23 23.29.34.excalidraw]]
 📄 [[09 - System Design/Tiny URL 2024-04-29 08.55.14.excalidraw|Tiny URL 2024-04-29 08.55.14.excalidraw]]
 📄 [[09 - System Design/Tiny URL|Tiny URL]]
