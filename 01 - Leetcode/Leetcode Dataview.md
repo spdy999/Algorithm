@@ -1,6 +1,15 @@
 ---
-Updated: 2025-03-02
+Updated: 2025-03-08
 ---
+
+## InCompleted
+
+```dataview
+TABLE Progress, TODO, Created, Updated, Difficulty, Topics, Techniques, Note, Sites, Techniques, Walkthrough
+FROM -"99 - Obsidian Templates"
+WHERE project="Leetcode" and progress!=true
+SORT updated desc 
+```
 ## Completed
 
 ```dataview
@@ -11,11 +20,3 @@ SORT updated desc, created desc
 ```
 
 
-## InCompleted
-
-```dataview
-TABLE Progress, TODO, Created, Updated, Difficulty, Topics, Techniques, Note, Sites, Techniques, Walkthrough
-FROM -"99 - Obsidian Templates"
-WHERE project="Leetcode" and progress!=true
-SORT updated desc 
-```
