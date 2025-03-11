@@ -293,6 +293,7 @@
 📄 [[01 - Leetcode/704. Binary Search 2024-04-16 14.50.10.excalidraw|704. Binary Search 2024-04-16 14.50.10.excalidraw]]
 📄 [[01 - Leetcode/704. Binary Search|704. Binary Search]]
 📄 [[01 - Leetcode/704.binary-search.py|704.binary-search.py]]
+📄 [[01 - Leetcode/724. Find Pivot Index 2025-03-12 00.25.46.excalidraw|724. Find Pivot Index 2025-03-12 00.25.46.excalidraw]]
 📄 [[01 - Leetcode/724. Find Pivot Index|724. Find Pivot Index]]
 📄 [[01 - Leetcode/724.find-pivot-index_prefix-and-postfix.py|724.find-pivot-index_prefix-and-postfix.py]]
 📄 [[01 - Leetcode/724.find-pivot-index.py|724.find-pivot-index.py]]
