@@ -243,6 +243,8 @@
 📄 [[01 - Leetcode/303. Range Sum Query - Immutable|303. Range Sum Query - Immutable]]
 📄 [[01 - Leetcode/303.range-sum-query-immutable_prefix-and-postfix.py|303.range-sum-query-immutable_prefix-and-postfix.py]]
 📄 [[01 - Leetcode/303.range-sum-query-immutable.py|303.range-sum-query-immutable.py]]
+📄 [[01 - Leetcode/304. Range Sum Query 2D - Immutable 2025-03-13 09.16.07.excalidraw|304. Range Sum Query 2D - Immutable 2025-03-13 09.16.07.excalidraw]]
+📄 [[01 - Leetcode/304. Range Sum Query 2D - Immutable 2025-03-17 09.22.17.excalidraw|304. Range Sum Query 2D - Immutable 2025-03-17 09.22.17.excalidraw]]
 📄 [[01 - Leetcode/304. Range Sum Query 2D - Immutable|304. Range Sum Query 2D - Immutable]]
 📄 [[01 - Leetcode/304.range-sum-query-2-d-immutable.py|304.range-sum-query-2-d-immutable.py]]
 📄 [[01 - Leetcode/322. Coin Change 2024-06-27 10.34.25.excalidraw|322. Coin Change 2024-06-27 10.34.25.excalidraw]]
