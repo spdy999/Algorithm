@@ -26,3 +26,5 @@ TODO:
             - if two people share a **common ancestor**
 
 ## Union by Rank (height)
+> aka. Path compression
+
