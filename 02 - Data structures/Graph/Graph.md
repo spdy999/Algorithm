@@ -1,3 +1,3 @@
 # Graph
 
-[[Disjoint Set (Union Find)]]
+[[Union Find]]

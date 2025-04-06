@@ -2,7 +2,7 @@
 Project: Data structure
 Progress: false
 Created: 2025-03-26
-Updated: 2025-03-26
+Updated: 2025-04-02
 Difficulty: 
 Topics: 
 Techniques: 
@@ -10,13 +10,15 @@ Related problems:
 Sites: 
 Walkthrough: 
 Companies: 
-Note: 
+Note:
+  - Aka. Disjoint Set
 tags: 
 TODO: 
 ---
-# Disjoint Set (Union Find)
+# Union Find
 ---
 - Used to **Check wether two vertices are connected?**
+- Used to detect cycle in graph
 - Is a data structure
 - aka : **“union-find”** data structure
 - Application
