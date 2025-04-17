@@ -16,3 +16,4 @@
 - To be an Associate of ISC2 ([View Highlight](https://read.readwise.io/read/01jr8zqfqs5z3wkecvnzas95af))
 - pass an ISC2 certification examination ([View Highlight](https://read.readwise.io/read/01jr8zqnhyhsxd7m9sep49xgxf))
 - CISSP up to six years ([View Highlight](https://read.readwise.io/read/01jr8zt1xmwng509mr2m2gfcwh))
+

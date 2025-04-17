@@ -20,3 +20,4 @@
 - Certified Ethical Hacker (CEH) ([View Highlight](https://read.readwise.io/read/01jr8yc9f9t0k45tw8smf4xp80))
 - offered by ([View Highlight](https://read.readwise.io/read/01jr8yczdzc2xymjt2ht7y4ejy))
 - EC-Council ([View Highlight](https://read.readwise.io/read/01jr8yd6m435rgd0h7491anrj7))
+

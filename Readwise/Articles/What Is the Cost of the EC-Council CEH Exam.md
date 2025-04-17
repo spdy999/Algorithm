@@ -17,3 +17,4 @@
 - CompTIA Pentest+ ([View Highlight](https://read.readwise.io/read/01jr8yqfr9q38q2p6cczd2t23k))
 - CEH exam on average is $950 for self-study ([View Highlight](https://read.readwise.io/read/01jr8ynp4rxksgygd9pm3q2agc))
 - $1,199 for those who take official training through EC-Council ([View Highlight](https://read.readwise.io/read/01jr8yntnfabjgec9hkq5d95kj))
+

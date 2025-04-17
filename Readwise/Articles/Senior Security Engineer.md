@@ -22,3 +22,4 @@
 - NIST C ([View Highlight](https://read.readwise.io/read/01jr9sgsay9tsked56zmtdfk48))
 - might be great in this role if you have ([View Highlight](https://read.readwise.io/read/01jr9s8fhqkssr20m2c01anpv7))
 - get into the minds of bad actors ([View Highlight](https://read.readwise.io/read/01jr9s917xmp4cy3rv4krjx8tg))
+

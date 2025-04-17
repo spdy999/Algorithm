@@ -20,3 +20,4 @@
 - Value of CISSP certification in 2024 ([View Highlight](https://read.readwise.io/read/01jr8zxakt0f7a2mfsz62p98jh))
 - [CEH](https://www.infosecinstitute.com/training/ceh/?utm_source=resources&utm_medium=infosec+network&utm_campaign=course+pricing&utm_content=hyperlink) is a more entry-level ([View Highlight](https://read.readwise.io/read/01jr8zy8cen505vcn0g61atyz8))
 - focused on offensive security. ([View Highlight](https://read.readwise.io/read/01jr8zycjfmk7r3acrfxf09pbp))
+

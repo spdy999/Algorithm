@@ -20,3 +20,4 @@
 - Python ([View Highlight](https://read.readwise.io/read/01jr9st071vxy40wk3fjf7h1s0))
 - AWS ([View Highlight](https://read.readwise.io/read/01jr9ssyrtje9k0sd7wrqf3ppe))
 - GenAI code assistants ([View Highlight](https://read.readwise.io/read/01jr9st7djktswczjrcgf0tvhv))
+

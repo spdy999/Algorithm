@@ -24,3 +24,4 @@
 - Domain 5. Identity and Access Management (IAM) ([View Highlight](https://read.readwise.io/read/01jr8zge58t2389qqmaxgrqbvj))
 - Security Operations ([View Highlight](https://read.readwise.io/read/01jr8zhadry30k5nk3f1zkqv4s))
     - Note: 6 months
+

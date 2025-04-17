@@ -16,3 +16,4 @@
 ## Highlights
 - APFS is now the file system used for all Apple devices ([View Highlight](https://read.readwise.io/read/01jr6ewdy8e3rx9a25awmbtvjt))
 - APFS is now the file system used for all Apple devices ([View Highlight](https://read.readwise.io/read/01jr6f09rd2vjq56ant99d622y))
+
