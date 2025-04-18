@@ -11,3 +11,13 @@
 [[Heap]]
 
 [[Complete tree]]
+
+## Height
+$$
+binary\ tree\ height = log_2(n)
+$$
+
+example: if `n = 8`, binary tree height = 3
+$$
+height = log_2(2^3) = 3
+$$
