@@ -5,3 +5,6 @@
 !.gitignore
 !*.md
 !*/
+
+# Ignore Readwise dir
+Readwise/**/*.md
