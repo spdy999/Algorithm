@@ -6,7 +6,6 @@
 📄 [[Pasted image 20231215054042.png|Pasted image 20231215054042.png]]
 📄 [[Pasted image 20231217225756.png|Pasted image 20231217225756.png]]
 📄 [[Pasted image 20231217225833.png|Pasted image 20231217225833.png]]
-📄 [[Readwise alias|Readwise alias]]
 🗂️ ![[01 - Leetcode/@IND_01 - Leetcode|@IND_01 - Leetcode]]
 🗂️ ![[02 - Data structures/@IND_02 - Data structures|@IND_02 - Data structures]]
 🗂️ ![[03 - BigO notation/@IND_03 - BigO notation|@IND_03 - BigO notation]]
