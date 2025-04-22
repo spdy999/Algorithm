@@ -2,13 +2,14 @@
 Project: Leetcode
 Progress: false
 Created: 2025-04-19
-Updated: 2025-04-21
+Updated: 2025-04-22
 Difficulty: 
 Time: O(log n)
 Space: 
 Topics: 
 Techniques:
   - "[[Binary Tree]]"
+  - "[[DFS]]"
 Related problems: 
 Code: 
 Sites: 
