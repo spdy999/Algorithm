@@ -331,6 +331,7 @@
 📄 [[01 - Leetcode/740. Delete and Earn 2023-12-18 15.55.05.excalidraw|740. Delete and Earn 2023-12-18 15.55.05.excalidraw]]
 📄 [[01 - Leetcode/740. Delete and Earn|740. Delete and Earn]]
 📄 [[01 - Leetcode/740.delete-and-earn.py|740.delete-and-earn.py]]
+📄 [[01 - Leetcode/745. Prefix and Suffix Search|745. Prefix and Suffix Search]]
 📄 [[01 - Leetcode/746. Min Cost Climbing Stairs 2023-12-15 06.00.26.excalidraw|746. Min Cost Climbing Stairs 2023-12-15 06.00.26.excalidraw]]
 📄 [[01 - Leetcode/746. Min Cost Climbing Stairs 2024-07-16 01.05.58.excalidraw|746. Min Cost Climbing Stairs 2024-07-16 01.05.58.excalidraw]]
 📄 [[01 - Leetcode/746. Min Cost Climbing Stairs|746. Min Cost Climbing Stairs]]
