@@ -1,8 +1,20 @@
-# Hashtable (hash map)
-
+---
+Project: Data structure
+Progress: 
+Updated: 2025-05-03
+Created: 2025-05-03
+Sites: 
+BackLinks: 
+Note:
+  - aka. Hash Table
+tags: 
+TODO: 
+---
+# Hashmap
+---
 - Abstract data type (like stack and queue)
 - Provide access to data using **keys**
-    - `key: value`
+- `key: value`
 - Associative array is one type of hash table
 
 ## Hashing
