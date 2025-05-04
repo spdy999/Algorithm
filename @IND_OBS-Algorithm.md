@@ -12,7 +12,7 @@
 📄 [[Untitled 2.canvas|Untitled 2.canvas]]
 📄 [[Untitled 3.canvas|Untitled 3.canvas]]
 📄 [[Untitled.canvas|Untitled.canvas]]
-📄 [[Untitled|Untitled]]
+📄 [[OBS-Algorithm/Untitled|Untitled]]
 🗂️ ![[01 - Leetcode/@IND_01 - Leetcode|@IND_01 - Leetcode]]
 🗂️ ![[02 - Data structures/@IND_02 - Data structures|@IND_02 - Data structures]]
 🗂️ ![[03 - BigO notation/@IND_03 - BigO notation|@IND_03 - BigO notation]]
