@@ -16,7 +16,7 @@ Walkthrough:
 Companies: 
 Note: 
 tags: 
-TODO: 
+TODO: Drawing, code
 ---
 # Merge Sort
 ---
