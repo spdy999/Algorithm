@@ -81,6 +81,8 @@
 📄 [[01 - Leetcode/74. Search a 2D Matrix 2024-01-17 01.42.41.excalidraw|74. Search a 2D Matrix 2024-01-17 01.42.41.excalidraw]]
 📄 [[01 - Leetcode/74. Search a 2D Matrix|74. Search a 2D Matrix]]
 📄 [[01 - Leetcode/74.search-a-2-d-matrix.py|74.search-a-2-d-matrix.py]]
+📄 [[01 - Leetcode/75. Sort Colors|75. Sort Colors]]
+📄 [[01 - Leetcode/75.sort-colors.py|75.sort-colors.py]]
 📄 [[01 - Leetcode/76. Minimum Window Substring 2024-01-14 02.04.53.excalidraw|76. Minimum Window Substring 2024-01-14 02.04.53.excalidraw]]
 📄 [[01 - Leetcode/76. Minimum Window Substring|76. Minimum Window Substring]]
 📄 [[01 - Leetcode/76.minimum-window-substring.py|76.minimum-window-substring.py]]
