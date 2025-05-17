@@ -2,9 +2,11 @@
 Project: Leetcode
 Progress: false
 Created: 2025-05-10
-Updated: 2025-05-15
+Updated: 2025-05-17
 Difficulty: 
-Time: 
+Time:
+  - O(n^2)
+  - O(n log n)
 Space: 
 Topics: 
 Techniques:
@@ -26,7 +28,7 @@ TODO:
 
 # Time
 - Worst case: `O(n^2)` #TODO: drawing
-- Avg - Best: `n O(log n)`  #TODO: drawing
+- Avg - Best: `O(n log n)`  #TODO: drawing
 - unstable
 	- can't confirm the order of the same value will be the same)
 
