@@ -6,16 +6,14 @@ Updated: 2025-05-18
 Difficulty: 
 Topics: 
 Techniques: 
-Related problems:
-  - "[[RabbitMQ]]"
-  - "[[Kafka]]"
-Sites: 
+Related problems: 
+Sites:
+  - https://neetcode.io/courses/system-design-for-beginners/20
 Walkthrough: 
 Companies: 
 Note: 
 tags: 
 TODO: 
 ---
-# Message Q
+# MapReduce
 ---
-![[Message Q 2025-05-18 03.22.52.excalidraw]]

@@ -2,7 +2,7 @@
 Project: System Design
 Progress: false
 Created: 2025-02-24
-Updated: 2025-02-24
+Updated: 2025-05-18
 Difficulty: 
 Topics: 
 Techniques: 
@@ -10,7 +10,9 @@ Related problems:
 Sites: 
 Walkthrough: 
 Companies: 
-Note: Content Delivery Networks
+Note:
+  - Content Delivery Networks
+  - Kinda similar to Edge server(new technology)
 tags: 
 TODO: 
 ---
