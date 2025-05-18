@@ -28,3 +28,9 @@ TODO:
 ## Usages
 - store static content nearest to users
 
+
+---
+## Trivias
+![[CDN.png]]
+- `public` = CDN will cache
+- `private` = CDN won't cache
