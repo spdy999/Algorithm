@@ -2,7 +2,7 @@
 Project: Leetcode
 Progress: false
 Created: 2025-05-10
-Updated: 2025-05-15
+Updated: 2025-05-26
 Difficulty: 
 Time: 
 Space: 
@@ -10,7 +10,8 @@ Topics:
 Techniques: 
 Related problems: 
 Code: 
-Sites: 
+Sites:
+  - https://neetcode.io/problems/quickSort
 Walkthrough: 
 Companies: 
 Note: 
