@@ -59,6 +59,7 @@
 📄 [[01 - Leetcode/45. Jump Game II|45. Jump Game II]]
 📄 [[01 - Leetcode/45.jump-game-ii.py|45.jump-game-ii.py]]
 📄 [[01 - Leetcode/46. Permutations 2024-03-31 22.20.11.excalidraw|46. Permutations 2024-03-31 22.20.11.excalidraw]]
+📄 [[01 - Leetcode/46. Permutations 2025-05-25 15.42.49.excalidraw|46. Permutations 2025-05-25 15.42.49.excalidraw]]
 📄 [[01 - Leetcode/46. Permutations|46. Permutations]]
 📄 [[01 - Leetcode/46.permutations.py|46.permutations.py]]
 📄 [[01 - Leetcode/47. Permutations II|47. Permutations II]]
