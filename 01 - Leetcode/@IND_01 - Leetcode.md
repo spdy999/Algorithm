@@ -169,6 +169,8 @@
 📄 [[01 - Leetcode/146. LRU Cache 2024-06-13 13.24.41.excalidraw|146. LRU Cache 2024-06-13 13.24.41.excalidraw]]
 📄 [[01 - Leetcode/146. LRU Cache|146. LRU Cache]]
 📄 [[01 - Leetcode/146.lru-cache.py|146.lru-cache.py]]
+📄 [[01 - Leetcode/147. Insertion Sort List 2025-05-25 23.55.10.excalidraw|147. Insertion Sort List 2025-05-25 23.55.10.excalidraw]]
+📄 [[01 - Leetcode/147. Insertion Sort List.gif|147. Insertion Sort List.gif]]
 📄 [[01 - Leetcode/147. Insertion Sort List|147. Insertion Sort List]]
 📄 [[01 - Leetcode/147.insertion-sort-list.py|147.insertion-sort-list.py]]
 📄 [[01 - Leetcode/150. Evaluate Reverse Polish Notation 2024-06-16 23.22.35.excalidraw|150. Evaluate Reverse Polish Notation 2024-06-16 23.22.35.excalidraw]]
