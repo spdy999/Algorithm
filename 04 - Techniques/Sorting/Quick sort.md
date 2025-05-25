@@ -2,7 +2,7 @@
 Project: Leetcode
 Progress: false
 Created: 2025-05-10
-Updated: 2025-05-17
+Updated: 2025-05-26
 Difficulty: 
 Time:
   - O(n^2)
@@ -21,7 +21,7 @@ Note:
 tags: 
 TODO: 
 ---
-# Quicksort
+# Quick sort
 ---
 - Do a pivot (find that random pivot you picked place)
 - Quite similar to [[04 - Techniques/Sorting/Merge sort|Merge sort]]
