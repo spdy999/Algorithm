@@ -1,20 +1,24 @@
 ---
 Project: Leetcode
-Progress: false
+Progress: true
 Created: 2025-05-10
 Updated: 2025-05-26
 Difficulty: 
 Time: 
 Space: 
 Topics: 
-Techniques: 
+Techniques:
+  - "[[04 - Techniques/Sorting/Quick sort|Quick sort]]"
 Related problems: 
 Code: 
 Sites:
   - https://neetcode.io/problems/quickSort
-Walkthrough: 
+Walkthrough:
+  - https://neetcode.io/courses/dsa-for-beginners/12
 Companies: 
-Note: 
+Note:
+  - Unstable sort
+  - Mostly use(?)
 tags: 
 TODO: 
 ---
@@ -25,8 +29,9 @@ TODO:
 
 
 - Time
-	- Worst case: `O(n^2)` #TODO: drawing
-	- Avg - Best: `n O(log n)`  #TODO: drawing
+	- Worst case: `O(n^2)`
+	- Avg - Best: `n O(log n)`
+	- Stability: No
 
 
 
