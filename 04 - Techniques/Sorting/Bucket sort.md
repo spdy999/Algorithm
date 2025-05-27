@@ -1,19 +1,20 @@
 ---
 Project: Leetcode
-Progress: false
+Progress: true
 Created: 2025-05-17
-Updated: 2025-05-26
+Updated: 2025-05-27
 Difficulty: 
 Time: O(n)
 Space: 
 Topics: 
 Techniques: 
-Related problems: 
+Related problems: "[[75. Sort Colors]]"
 Code: 
 Sites: 
 Walkthrough: 
 Companies: 
-Note: 
+Note:
+  - Code is quite easy to understand
 tags: 
 TODO: 
 ---
