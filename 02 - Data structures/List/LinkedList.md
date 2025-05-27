@@ -2,11 +2,12 @@
 Project: Leetcode
 Progress: true
 Created: 2025-05-05
-Updated: 2025-05-05
+Updated: 2025-05-27
 Difficulty: Medium
 Time: 
 Space: 
-Topics: 
+Topics:
+  - "[[Recursive type]]"
 Techniques: 
 Related problems: 
 Code: 
@@ -16,7 +17,7 @@ Companies:
 Note:
   - Usually use with while loop
 tags: 
-TODO: 
+TODO: Find the example from leetcode
 ---
 # LinkedList
 ---
