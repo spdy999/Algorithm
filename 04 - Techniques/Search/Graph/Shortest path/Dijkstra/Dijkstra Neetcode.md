@@ -6,6 +6,7 @@ BackLinks:
   - "[[Hashmap]]"
   - "[[Greedy]]"
   - "[[Adjacency list]]"
+  - "[[BFS]]"
 OS compatibility: 
 Note: 
 tags: 
