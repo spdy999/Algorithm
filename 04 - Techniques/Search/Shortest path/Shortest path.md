@@ -7,16 +7,13 @@
 
 ![https://i.stack.imgur.com/91KjB.png](https://i.stack.imgur.com/91KjB.png)
 
-![[/Untitled.png]]
+![[04 - Techniques/Search/Shortest path/Untitled.png|500]]
+
 
 - Relaxation
-- 
 
-[[Dijkstra algorithm (make it [[easier)]]]]
+![[Shortest_path_Dijkstra_210821_005704_1.jpg.jpg|400]]
 
+![[Shortest_path_Dijkstra_210821_005704_2.jpg.jpg|400]]
 
-![[Shortest_path_Dijkstra_210821_005704_1.jpg.jpg]]
-
-![[Shortest_path_Dijkstra_210821_005704_2.jpg.jpg]]
-
-![[Shortest_path_Dijkstra_210821_005704_3.jpg.jpg]]
+![[Shortest_path_Dijkstra_210821_005704_3.jpg.jpg|400]]
