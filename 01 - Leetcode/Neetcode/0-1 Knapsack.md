@@ -8,8 +8,9 @@ Time:
 Space: 
 Topics: 
 Techniques: 
-Related problems: 
-Code: 
+Related problems: "[[78. Subsets]]"
+Code:
+  - "[[knapsack.py]]"
 Sites:
   - https://neetcode.io/problems/zeroOneKnapsack
 Walkthrough: 
