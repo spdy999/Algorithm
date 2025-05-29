@@ -348,6 +348,8 @@
 📄 [[01 - Leetcode/740. Delete and Earn 2023-12-18 15.55.05.excalidraw|740. Delete and Earn 2023-12-18 15.55.05.excalidraw]]
 📄 [[01 - Leetcode/740. Delete and Earn|740. Delete and Earn]]
 📄 [[01 - Leetcode/740.delete-and-earn.py|740.delete-and-earn.py]]
+📄 [[01 - Leetcode/743. Network Delay Time 2025-05-30 00.58.03.excalidraw|743. Network Delay Time 2025-05-30 00.58.03.excalidraw]]
+📄 [[01 - Leetcode/743. Network Delay Time|743. Network Delay Time]]
 📄 [[01 - Leetcode/745. Prefix and Suffix Search 2025-05-22 02.28.14.excalidraw|745. Prefix and Suffix Search 2025-05-22 02.28.14.excalidraw]]
 📄 [[01 - Leetcode/745. Prefix and Suffix Search 2025-05-22 03.04.28.excalidraw|745. Prefix and Suffix Search 2025-05-22 03.04.28.excalidraw]]
 📄 [[01 - Leetcode/745. Prefix and Suffix Search|745. Prefix and Suffix Search]]
