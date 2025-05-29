@@ -7,7 +7,9 @@ Difficulty:
 Time: 
 Space: 
 Topics: 
-Techniques: 
+Techniques:
+  - "[[DP]]"
+  - "[[Segment Tree]]"
 Related problems: "[[78. Subsets]]"
 Code:
   - "[[knapsack.py]]"
@@ -17,7 +19,7 @@ Walkthrough:
 Companies: 
 Note: 
 tags: 
-TODO: 
+TODO: try memoization
 ---
 # 0-1 Knapsack
 ---
@@ -29,6 +31,7 @@ TODO:
 
 ```embed-python
 PATH: "vault://01 - Leetcode/Neetcode/knapsack.py"
+LINES: "1-23"
 TITLE: "knapsack.py"
 ```
 
