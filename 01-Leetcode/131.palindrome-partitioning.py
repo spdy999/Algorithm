@@ -27,12 +27,19 @@ class Solution:
                 res.append(part.copy())
                 return
 
-            for j in range(i, n):
+            for j in range(i, n):  # Horizontal
                 if isPalin(i, j):
                     part.append(s[i: j + 1])
-                    backtrack(j + 1)
-                    part.pop()
+                    backtrack(j + 1)  # Vertical
+                    part.pop()  # Backtrack
         backtrack(0)
         return res
+
+
+s = Solution()
+assert s.partition("aab") == [["a", "a", "b"], ["aa", "b"]]
+assert s.partition("a") == [["a"]]
+assert s.partition("abcd") == [["a", "b", "c", "d"]]
+
 
 # @lc code=end
