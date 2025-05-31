@@ -31,18 +31,6 @@ class Solution:
         return t
 
 
-def test():
-    solution = Solution()
-    assert solution.shortestPath(
-        3, [[0, 1, 4]], 0) == dict({0: 0, 1: 4, 2: -1})
-    assert solution.shortestPath(
-        5,
-        [[0, 1, 10], [0, 2, 3], [1, 3, 2], [2, 1, 4],
-            [2, 3, 8], [2, 4, 2], [3, 4, 5]],
-        0,
-    ) == dict({0: 0, 1: 7, 2: 3, 3: 9, 4: 5})
-
-
-if __name__ == "__main__":
-    test()
-    print("Correct Dijkstra's shortest path")
+assert Solution().shortestPath(3, [[0, 1, 4]], 0) == dict({0: 0, 1: 4, 2: -1})
+assert Solution().shortestPath(5, [[0, 1, 10], [0, 2, 3], [1, 3, 2], [2, 1, 4], [
+    2, 3, 8], [2, 4, 2], [3, 4, 5]], 0,) == dict({0: 0, 1: 7, 2: 3, 3: 9, 4: 5})
