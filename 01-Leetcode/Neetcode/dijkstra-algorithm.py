@@ -1,6 +1,6 @@
 from typing import List, Dict
 import collections
-import heapq
+# import heapq
 
 
 class Solution:
@@ -32,10 +32,12 @@ class Solution:
 
 def test():
     solution = Solution()
-    assert solution.shortestPath(3, [[0, 1, 4]], 0) == dict({0: 0, 1: 4, 2: -1})
+    assert solution.shortestPath(
+        3, [[0, 1, 4]], 0) == dict({0: 0, 1: 4, 2: -1})
     assert solution.shortestPath(
         5,
-        [[0, 1, 10], [0, 2, 3], [1, 3, 2], [2, 1, 4], [2, 3, 8], [2, 4, 2], [3, 4, 5]],
+        [[0, 1, 10], [0, 2, 3], [1, 3, 2], [2, 1, 4],
+            [2, 3, 8], [2, 4, 2], [3, 4, 5]],
         0,
     ) == dict({0: 0, 1: 7, 2: 3, 3: 9, 4: 5})
 
