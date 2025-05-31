@@ -14,17 +14,17 @@ class Solution:
             while il >= 0 and ir < n and s[il] == s[ir]:
                 lenPd = ir - il + 1
                 if lenPd > len(lpd[0]):
-                    lpd[0] = s[il:ir+1]
-                
-                il-=1
-                ir+=1
+                    lpd[0] = s[il:ir + 1]
 
-        for i in range(n): # O(n)
+                il -= 1
+                ir += 1
+
+        for i in range(n):  # O(n)
             # odd length
             checkLpd(i, i, 1)
 
             # even length
-            checkLpd(i, i+1, 2)
+            checkLpd(i, i + 1, 2)
 
         return lpd[0]
 
