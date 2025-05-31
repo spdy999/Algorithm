@@ -14,7 +14,7 @@
 📄 [[Untitled.canvas|Untitled.canvas]]
 📄 [[Untitled|Untitled]]
 🗂️ ![[01-Leetcode/@IND_01-Leetcode|@IND_01-Leetcode]]
-🗂️ ![[02 - Data structures/@IND_02 - Data structures|@IND_02 - Data structures]]
+🗂️ ![[02-Data structures/@IND_02-Data structures|@IND_02-Data structures]]
 🗂️ ![[03 - BigO notation/@IND_03 - BigO notation|@IND_03 - BigO notation]]
 🗂️ ![[04 - Techniques/@IND_04 - Techniques|@IND_04 - Techniques]]
 🗂️ ![[05 - Math Trivia/@IND_05 - Math Trivia|@IND_05 - Math Trivia]]
