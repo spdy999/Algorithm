@@ -5,12 +5,15 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         n = len(s)
         dp = [False] * (n + 1)
-        dp[-1] = True # base case
-        
+        dp[-1] = True  # base case
+
         for i in range(n - 1, -1, -1):
             for w in wordDict:
                 len_w = len(w)
@@ -19,6 +22,5 @@ class Solution:
                 if dp[i] is False and word_end_ind <= n and s[i: word_end_ind] == w:
                     dp[i] = dp[word_end_ind]
         return dp[0]
-        
-# @lc code=end
 
+# @lc code=end

@@ -18,7 +18,7 @@ class Solution:
         prev = head
 
         # find 2nd -> end duplicate numbers and delete them
-        while pt: # O(n)
+        while pt:  # O(n)
             if pt.val in checkset:
                 dupset.add(pt.val)
                 prev.next = pt.next
@@ -27,11 +27,11 @@ class Solution:
             checkset.add(pt.val)
             prev = pt
             pt = pt.next
-        
+
         # find each head of each duplicated num
         pt = head
         prev = head
-        while pt: # O(n)
+        while pt:  # O(n)
             if pt.val in dupset:
                 prev.next = pt.next
                 pt = prev.next
@@ -42,6 +42,5 @@ class Solution:
         # check if head is one of the duplication
         return head.next if head.val in dupset else head
 
-        
-# @lc code=end
 
+# @lc code=end

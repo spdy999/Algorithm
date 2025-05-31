@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         n = len(digits)
@@ -13,30 +16,29 @@ class Solution:
             return res
 
         digitToStrs = {
-            '2':'abc',
-            '3':'def',
-            '4':'ghi',
-            '5':'jkl',
-            '6':'mno',
-            '7':'pqrs',
-            '8':'tuv',
+            '2': 'abc',
+            '3': 'def',
+            '4': 'ghi',
+            '5': 'jkl',
+            '6': 'mno',
+            '7': 'pqrs',
+            '8': 'tuv',
             '9': 'wxyz'
         }
-        
-        def dfs(level: int, comb: str): # Adapt from 559. Maximum Depth of N-ary Tree
+
+        def dfs(level: int, comb: str):  # Adapt from 559. Maximum Depth of N-ary Tree
             if level >= n:
                 res.append(comb)
                 return
 
             digit = digits[level]
             letters = digitToStrs[digit]
-            for c in letters: # abc 
-                dfs(level + 1, comb + c) # traverse through node children, backtracking 
+            for c in letters:  # abc
+                dfs(level + 1, comb + c)  # traverse through node children, backtracking
 
         dfs(0, "")
         return res
-        
-        # bigO = O(3^n)
-        
-# @lc code=end
 
+        # bigO = O(3^n)
+
+# @lc code=end
