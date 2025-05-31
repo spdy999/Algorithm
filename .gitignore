@@ -5,6 +5,8 @@
 !.gitignore
 !*.md
 !*.py
+!*.cpp
+!*.txt
 !*/
 
 # Ignore Readwise dir
