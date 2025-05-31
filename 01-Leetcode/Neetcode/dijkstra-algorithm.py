@@ -24,7 +24,7 @@ class Solution:
             t[n1] = max(t[n1], w1)
 
             for n2, w2 in ed[n1]:
-                if n2 not in visit:
+                if n2 not in visit:  # Greedy
                     heapq.heappush(
                         minHeap, (w1 + w2, n2))
 
