@@ -21,10 +21,13 @@ class Solution:
             l = r + 1
             r = farthest
             res += 1
+        print(res)
         return res
 
 
 assert Solution().jump([2, 3, 1, 1, 4]) == 2
 assert Solution().jump([2, 3, 0, 1, 4]) == 2
+assert Solution().jump([2, 3, 1, 1, 4, 5, 6]) == 3
+assert Solution().jump([1]) == 0
 
 # @lc code=end
