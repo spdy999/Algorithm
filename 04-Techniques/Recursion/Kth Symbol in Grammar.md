@@ -4,4 +4,4 @@
 
 # Pseudocode
 
-![Untitled](04%20-%20Techniques/Recursion/Kth%20Symbol%20in%20Grammar/Untitled.png)
+![Untitled](04-Techniques/Recursion/Kth%20Symbol%20in%20Grammar/Untitled.png)

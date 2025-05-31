@@ -8,7 +8,7 @@ Time:
 Space: 
 Topics: 
 Techniques:
-  - "[[04 - Techniques/Sorting/Quick sort|Quick sort]]"
+  - "[[04-Techniques/Sorting/Quick sort|Quick sort]]"
 Related problems: 
 Code: 
 Sites:
