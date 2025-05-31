@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from collections import defaultdict
+
+
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         # Sliding window
@@ -17,8 +20,6 @@ class Solution:
         count[s[il]] += 1
         longest = 1
 
-
-
         for ir in range(1, n):
             count[s[ir]] += 1
 
@@ -29,6 +30,9 @@ class Solution:
             longest = max(longest, winLen(ir, il))
 
         return longest
-        
-# @lc code=end
 
+
+assert Solution().characterReplacement("ABAB", 2) == 4, 'Should be 4'
+assert Solution().characterReplacement("AABABBA", 1) == 4, 'Should be 4'
+
+# @lc code=end
