@@ -17,7 +17,7 @@
 🗂️ ![[02-Data structures/@IND_02-Data structures|@IND_02-Data structures]]
 🗂️ ![[03-BigO notation/@IND_03-BigO notation|@IND_03-BigO notation]]
 🗂️ ![[04-Techniques/@IND_04-Techniques|@IND_04-Techniques]]
-🗂️ ![[05 - Math Trivia/@IND_05 - Math Trivia|@IND_05 - Math Trivia]]
+🗂️ ![[05-Math Trivia/@IND_05-Math Trivia|@IND_05-Math Trivia]]
 🗂️ ![[07 - Omnivore/@IND_07 - Omnivore|@IND_07 - Omnivore]]
 🗂️ ![[09 - System Design/@IND_09 - System Design|@IND_09 - System Design]]
 🗂️ ![[99 - Obsidian Templates/@IND_99 - Obsidian Templates|@IND_99 - Obsidian Templates]]
