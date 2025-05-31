@@ -13,7 +13,7 @@
 📄 [[Untitled 3.canvas|Untitled 3.canvas]]
 📄 [[Untitled.canvas|Untitled.canvas]]
 📄 [[Untitled|Untitled]]
-🗂️ ![[01 - Leetcode/@IND_01 - Leetcode|@IND_01 - Leetcode]]
+🗂️ ![[01-Leetcode/@IND_01-Leetcode|@IND_01-Leetcode]]
 🗂️ ![[02 - Data structures/@IND_02 - Data structures|@IND_02 - Data structures]]
 🗂️ ![[03 - BigO notation/@IND_03 - BigO notation|@IND_03 - BigO notation]]
 🗂️ ![[04 - Techniques/@IND_04 - Techniques|@IND_04 - Techniques]]
