@@ -8,7 +8,7 @@ Time:
 Space: 
 Topics: 
 Techniques:
-  - "[[04 - Techniques/Sorting/Merge sort|Merge sort]]"
+  - "[[04-Techniques/Sorting/Merge sort|Merge sort]]"
 Related problems: 
 Code: 
 Sites: 

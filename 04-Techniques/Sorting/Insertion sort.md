@@ -12,4 +12,4 @@ TODO:
 # Insertion sort
 ---
 
-![[Insertion sort/Untitled.png]]
+![[04-Techniques/Sorting/Insertion sort/Untitled.png]]

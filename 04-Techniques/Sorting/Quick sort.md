@@ -11,7 +11,7 @@ Space:
 Topics: 
 Techniques:
   - "[[@IND_2 pointers]]"
-  - "[[04 - Techniques/Sorting/Merge sort|Merge sort]]"
+  - "[[04-Techniques/Sorting/Merge sort|Merge sort]]"
 Related problems:
   - "[[01 - Leetcode/Neetcode/Quick Sort|Quick Sort]]"
 Code: 
@@ -26,7 +26,7 @@ TODO:
 # Quick sort
 ---
 - Do a pivot (find that random pivot you picked place)
-- Quite similar to [[04 - Techniques/Sorting/Merge sort|Merge sort]]
+- Quite similar to [[04-Techniques/Sorting/Merge sort|Merge sort]]
 ![[Quick Sort 2025-05-10 23.33.35.excalidraw]]
 # Time
 - Worst case: `O(n^2)`
