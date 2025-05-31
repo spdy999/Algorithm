@@ -3,9 +3,14 @@
 #     def __init__(self, key: int, value: str):
 #         self.key = key
 #         self.value = value
+from typing import List
+from importlib.metadata import Pair
+
+
 class Solution:
     def quickSort(self, pairs: List[Pair]) -> List[Pair]:
         n = len(pairs)
+
         def qs(s: int, e: int):
             if e - s <= 0:
                 return
@@ -22,8 +27,8 @@ class Solution:
 
             ls, le = s, insertInd - 1
             rs, re = insertInd + 1, e
-            qs(ls, le) # quick-sort left partition
-            qs(rs, re) # quick-sort right partition
+            qs(ls, le)  # quick-sort left partition
+            qs(rs, re)  # quick-sort right partition
 
         qs(0, n - 1)
         return pairs

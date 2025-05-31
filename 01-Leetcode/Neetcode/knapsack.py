@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def maximumProfit(self, profit: List[int], weight: List[int], capacity: int) -> int:
         subset = [0, 0]  # [w, p]
