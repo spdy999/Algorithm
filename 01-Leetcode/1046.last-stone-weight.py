@@ -5,21 +5,24 @@
 #
 
 # @lc code=start
+from typing import List
+import heapq
+
+
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         stones = [-s for s in stones]
-        heapq.heapify(stones) # O(n)
+        heapq.heapify(stones)  # O(n)
 
         while len(stones) > 1:
-            y = -heapq.heappop(stones) # O(log n)
-            x = -heapq.heappop(stones) # O(log n)
+            y = -heapq.heappop(stones)  # O(log n)
+            x = -heapq.heappop(stones)  # O(log n)
 
             diff = y - x
 
             if diff > 0:
-                heapq.heappush(stones, -diff) # O(log n)
+                heapq.heappush(stones, -diff)  # O(log n)
 
         return 0 if len(stones) == 0 else -stones[0]
-        
-# @lc code=end
 
+# @lc code=end

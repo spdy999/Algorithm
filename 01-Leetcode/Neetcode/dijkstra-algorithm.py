@@ -1,6 +1,6 @@
-from typing import List, Dict
 import collections
-# import heapq
+from typing import Dict, List
+import heapq
 
 
 class Solution:
@@ -25,7 +25,8 @@ class Solution:
 
             for n2, w2 in ed[n1]:
                 if n2 not in visit:
-                    heapq.heappush(minHeap, (w1 + w2, n2))
+                    heapq.heappush(
+                        minHeap, (w1 + w2, n2))
 
         return t
 

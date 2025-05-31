@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         # Greedy, 2 pointers
@@ -16,7 +19,7 @@ class Solution:
 
         def winLen(il, ir):
             return ir - il
-        
+
         n = len(height)
         maxx = 0
         il = 0
@@ -38,13 +41,4 @@ class Solution:
         return maxx
 
 
-        
-
-        
-
-
-
-
-
 # @lc code=end
-

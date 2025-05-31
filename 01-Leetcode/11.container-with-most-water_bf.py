@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         # Brute force => TLE
@@ -15,7 +18,7 @@ class Solution:
         # y = min(height[il], height[ir])
         def winLen(il, ir):
             return ir - il
-        
+
         n = len(height)
         maxx = 0
 
@@ -30,4 +33,3 @@ class Solution:
 
 
 # @lc code=end
-

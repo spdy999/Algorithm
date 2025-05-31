@@ -6,19 +6,27 @@
 
 # @lc code=start
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+from typing import Optional
+from typing import List
+import deque
+
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if root is None: return root
+        if root is None:
+            return root
 
         q = deque()
         q.append(root)
         res = []
-         
+
         while q:
             lenQ = len(q)
             level = []
@@ -29,11 +37,10 @@ class Solution:
                     q.append(node.left)
                     q.append(node.right)
 
-            if len(level) is not 0:
+            if len(level) != 0:
                 res.append(level)
-                
+
         return res
         # bigO = O(n)
 
 # @lc code=end
-
