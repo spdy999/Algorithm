@@ -21,7 +21,6 @@ class Solution:
             l = r + 1
             r = farthest
             res += 1
-        print(res)
         return res
 
 
