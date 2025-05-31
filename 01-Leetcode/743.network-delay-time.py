@@ -5,6 +5,11 @@
 #
 
 # @lc code=start
+import heapq
+from typing import List
+import collections
+
+
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         edges = collections.defaultdict(list)
@@ -25,11 +30,14 @@ class Solution:
             t = max(t, w1)
 
             for n2, w2 in edges[n1]:
-                if n2 not in visit:
+                if n2 not in visit:  # Greedy
                     heapq.heappush(minHeap, (w1 + w2, n2))
 
         return t if len(visit) == n else -1
 
-        
-# @lc code=end
 
+assert Solution().networkDelayTime([[2, 1, 1], [2, 3, 1], [3, 4, 1]], 4, 2) == 2
+assert Solution().networkDelayTime([[1, 2, 1]], 2, 1) == 1
+assert Solution().networkDelayTime([[1, 2, 1]], 2, 2) == -1
+
+# @lc code=end

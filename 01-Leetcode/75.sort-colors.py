@@ -5,6 +5,10 @@
 #
 
 # @lc code=start
+from typing import List
+from collections import Counter
+
+
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
@@ -19,7 +23,10 @@ class Solution:
                 for _ in range(bucket[i]):
                     nums[j] = i
                     j += 1
+        return nums
 
-        
+
+assert Solution().sortColors([2, 0, 2, 1, 1, 0]) == [0, 0, 1, 1, 2, 2]
+assert Solution().sortColors([2, 0, 1]) == [0, 1, 2]
+
 # @lc code=end
-

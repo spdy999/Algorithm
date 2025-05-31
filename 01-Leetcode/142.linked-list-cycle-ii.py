@@ -22,6 +22,5 @@ class Solution:
             check.add(cur)
             cur = cur.next
         return None
-        
-# @lc code=end
 
+# @lc code=end

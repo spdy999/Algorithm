@@ -16,18 +16,16 @@ class Solution:
         left = dummy
         right = head
 
-        while n > 0 and right: # O(n)
+        while n > 0 and right:  # O(n)
             right = right.next
             n -= 1
-        
+
         while right:
             left = left.next
             right = right.next
-        
+
         left.next = left.next.next
         return dummy.next
-        
 
-        
+
 # @lc code=end
-

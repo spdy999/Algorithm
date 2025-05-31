@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         # Time: O(n)
@@ -22,6 +25,5 @@ class Solution:
 
         return maxx
 
-        
-# @lc code=end
 
+# @lc code=end

@@ -5,9 +5,14 @@
 #
 
 # @lc code=start
+import re
+
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = re.sub(r'[^a-zA-Z0-9]', '', s).lower() # substitute every character which is not alhanumeric to ''. Then, lower every left over charactor
+        # substitute every character which is not alhanumeric to ''.
+        # Then, lower every left over charactor
+        s = re.sub(r'[^a-zA-Z0-9]', '', s).lower()
         n = len(s)
 
         # Easiest palindrome checking, (no need to care about odd or even length)
@@ -20,6 +25,5 @@ class Solution:
             r -= 1
         return True
 
-        
-# @lc code=end
 
+# @lc code=end

@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
@@ -14,11 +17,10 @@ class Solution:
         for i in range(1, n):
             pr = prices[i]
             profit = max(profit, pr - pl)
-            
+
             if pr < pl:
                 pl = pr
-                
+
         return profit
 
 # @lc code=end
-

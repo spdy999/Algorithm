@@ -5,11 +5,14 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         if sum(gas) < sum(cost):
             return -1
-        
+
         res = 0
         total = 0
         for i in range(len(gas)):
@@ -21,6 +24,5 @@ class Solution:
         # Time : O(n)
         # Space : O(1)
 
-        
-# @lc code=end
 
+# @lc code=end

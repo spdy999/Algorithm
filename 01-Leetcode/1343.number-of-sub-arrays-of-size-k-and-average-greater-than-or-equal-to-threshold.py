@@ -5,21 +5,23 @@
 #
 
 # @lc code=start
+from typing import List
+
+
 class Solution:
     def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
         n = len(arr)
         summ = sum(arr[:k])
-        avg = summ/k
+        avg = summ / k
         cnt = 1 if avg >= threshold else 0
         il = 0
 
-        for ir in range(k,n):
+        for ir in range(k, n):
             summ = summ - arr[il] + arr[ir]
             avg = summ / k
             if avg >= threshold:
                 cnt += 1
             il += 1
         return cnt
-        
-# @lc code=end
 
+# @lc code=end
