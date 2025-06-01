@@ -24,5 +24,5 @@ TODO:
 ![[Bucket sort 2025-05-26 03.12.20.excalidraw]]
 
 ```embed-python
-PATH:vault://open?vault=OBS-Algorithm&file=01-Leetcode%2F75.sort-colors.py
+PATH: "vault://01-Leetcode/75.sort-colors.py"
 ```

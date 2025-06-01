@@ -26,4 +26,10 @@ class Solution:
         return trib[n]
 
 
+s = Solution()
+assert s.tribonacci(0) == 0
+assert s.tribonacci(1) == 1
+assert s.tribonacci(2) == 1
+assert s.tribonacci(10) == 149
+
 # @lc code=end
