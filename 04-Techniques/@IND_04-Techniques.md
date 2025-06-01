@@ -5,6 +5,7 @@
 📄 [[04-Techniques/Floyd’s Tortoise and Hare|Floyd’s Tortoise and Hare]]
 📄 [[04-Techniques/Greedy|Greedy]]
 📄 [[04-Techniques/Kadane's Algorithm|Kadane's Algorithm]]
+📄 [[04-Techniques/LCA|LCA]]
 📄 [[04-Techniques/Prefix sum|Prefix sum]]
 📄 [[04-Techniques/Quickselect|Quickselect]]
 📄 [[04-Techniques/WAH|WAH]]
