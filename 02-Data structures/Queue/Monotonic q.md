@@ -4,9 +4,17 @@ A monotonic queue is a <mark style="background: #FFB86CA6;">data structure</mark
 - Seems like this is refer to [[239. Sliding Window Maximum]]
 
 
-## #Increasing 
+## #Increasing (aka. Non-decreasing)
+
+![[Monotonic q.png]]
+## #Decreasing (aka. Non-increasing)
+
+![[Monotonic q-1.png]]
 
 
-## #Decreasing 
+---
+## TLDR
+- Non monotonic
+![[Monotonic q-2.png]]
 
 
