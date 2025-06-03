@@ -27,7 +27,6 @@ class Solution:
 
         while maxHeap:
             w1, n1 = heapq.heappop(maxHeap)
-            w1 = w1
 
             if n1 in visit:
                 continue
@@ -35,10 +34,13 @@ class Solution:
             visit.add(n1)
             prob[n1] = min(prob[n1], w1)
 
+            if n1 == end_node:
+                return -prob[end_node]
+
             for n2, w2 in ed[n1]:
                 if n2 not in visit:
                     heapq.heappush(maxHeap, (w1 * w2, n2))
-        return -prob[end_node]
+        return 0
 
         
 # @lc code=end
