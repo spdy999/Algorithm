@@ -1,12 +1,15 @@
 ---
 Project: Technique
 Sites: 
-BackLinks: 
+BackLinks:
+  - "[[Greedy]]"
+  - "[[Heap]]"
+  - "[[BFS]]"
 OS compatibility: 
 Note: 
-Tags: 
+tags: 
 Created: 2025-05-29
-Updated: 2025-05-29
+Updated: 2025-06-03
 ---
 # Dijkstra
 ---
