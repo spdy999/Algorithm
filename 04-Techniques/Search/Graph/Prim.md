@@ -15,5 +15,6 @@ Updated: 2025-06-06
 - Acyclical (aka. No any cycle)
 	- ![[Prim 2025-06-06 14.45.22.excalidraw]]
 - Undirected Connected Graph
+- `E = N - 1`
 
 
