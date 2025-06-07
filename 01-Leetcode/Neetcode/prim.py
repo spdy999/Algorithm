@@ -5,7 +5,7 @@ import heapq
 
 class Solution:
     def minimumSpanningTree(self, n: int, edges: List[List[int]]) -> int:
-        visit = set()
+        visit = set() # prevent cycling (Acyclical)
         eds = collections.defaultdict(set)  # { u: (v, w) }
         minWt = 0
 
