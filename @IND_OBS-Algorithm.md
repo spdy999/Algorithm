@@ -7,6 +7,7 @@
 🗂️ ![[07-Omnivore/@IND_07-Omnivore|@IND_07-Omnivore]]
 🗂️ ![[09-System Design/@IND_09-System Design|@IND_09-System Design]]
 🗂️ ![[99 - Obsidian Templates/@IND_99 - Obsidian Templates|@IND_99 - Obsidian Templates]]
+🗂️ ![[Clippings/@IND_Clippings|@IND_Clippings]]
 🗂️ ![[Competitive programming/@IND_Competitive programming|@IND_Competitive programming]]
 🗂️ ![[Daily Notes/@IND_Daily Notes|@IND_Daily Notes]]
 🗂️ ![[Readwise/@IND_Readwise|@IND_Readwise]]
