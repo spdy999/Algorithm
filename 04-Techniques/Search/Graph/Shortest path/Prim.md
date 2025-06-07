@@ -1,13 +1,17 @@
 ---
 Project: Technique
 Sites: 
-BackLinks: 
+BackLinks:
+  - "[[Dijkstra]]"
+  - "[[Minimum Spanning Tree (MST)]]"
 OS compatibility: 
 Note:
   - Minimum Spanning Tree
 tags: 
 Created: 2025-06-05
-Updated: 2025-06-06
+Updated: 2025-06-07
+Code:
+  - "[[prim.py]]"
 ---
 # Prim's Minimum spanning Tree
 ---
