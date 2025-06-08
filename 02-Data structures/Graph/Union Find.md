@@ -1,8 +1,8 @@
 ---
 Project: Data structure
-Progress: false
+Progress: true
 Created: 2025-03-26
-Updated: 2025-04-02
+Updated: 2025-06-08
 Difficulty: 
 Topics: 
 Techniques: 
