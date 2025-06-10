@@ -415,6 +415,7 @@
 📄 [[01-Leetcode/1514. Path with Maximum Probability|1514. Path with Maximum Probability]]
 📄 [[01-Leetcode/1514.path-with-maximum-probability_dijkstra_faster.py|1514.path-with-maximum-probability_dijkstra_faster.py]]
 📄 [[01-Leetcode/1514.path-with-maximum-probability_dijkstra_slow.py|1514.path-with-maximum-probability_dijkstra_slow.py]]
+📄 [[01-Leetcode/1584. Min Cost to Connect All Points 2025-06-10 23.40.54.excalidraw|1584. Min Cost to Connect All Points 2025-06-10 23.40.54.excalidraw]]
 📄 [[01-Leetcode/1584. Min Cost to Connect All Points.mhtml|1584. Min Cost to Connect All Points.mhtml]]
 📄 [[01-Leetcode/1584. Min Cost to Connect All Points|1584. Min Cost to Connect All Points]]
 📄 [[01-Leetcode/1584.min-cost-to-connect-all-points_prim.py|1584.min-cost-to-connect-all-points_prim.py]]
