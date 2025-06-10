@@ -6,10 +6,12 @@ BackLinks:
   - "[[Heap]]"
   - "[[BFS]]"
 OS compatibility: 
-Note: 
+Note:
+  - Find the shortest path from src to dst node
+  - Don't need to use all nodes
 tags: 
 Created: 2025-05-29
-Updated: 2025-06-03
+Updated: 2025-06-09
 ---
 # Dijkstra
 ---
