@@ -12,7 +12,7 @@ Techniques:
   - "[[Segment Tree]]"
 Related problems: "[[78. Subsets]]"
 Code:
-  - "[[knapsack.py]]"
+  - "[[neetcode-knapsack.py]]"
 Sites:
   - https://neetcode.io/problems/zeroOneKnapsack
 Walkthrough: 
