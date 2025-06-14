@@ -7,7 +7,7 @@
 
 ![https://i.stack.imgur.com/91KjB.png](https://i.stack.imgur.com/91KjB.png)
 
-![[04-Techniques/Greedy/Shortest path/Untitled.png|500]]
+![[04-Techniques/Greedy/Graph/Shortest path/Untitled.png|500]]
 
 
 - Relaxation
