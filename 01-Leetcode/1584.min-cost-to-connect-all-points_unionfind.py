@@ -54,7 +54,7 @@ class Solution:
                 wt = abs(x1 - x2) + abs(y1 - y2)
                 eds.append([i, j, wt])
 
-        eds.sort(key=lambda e: e[2])
+        eds.sort(key=lambda e: e[2]) # O(nlogn)
         uf = UninFind(n)
         minWt = 0
         for n1, n2, wt in eds:
