@@ -5,7 +5,7 @@ Updated: 2025-06-10
 Created: 2025-06-07
 Sites: 
 BackLinks:
-  - "[[04-Techniques/Greedy/Prim]]"
+  - "[[Prim]]"
 Note: 
 tags: 
 TODO: 
@@ -13,5 +13,5 @@ TODO:
 # Minimum Spanning Tree (MST)
 ---
 How many Methods to find
-1. [[04-Techniques/Greedy/Prim]] : Just PRIM. it was made for this...
+1. [[Prim]] : Just PRIM. it was made for this...
 2. [[Union Find]] : "BUT" <mark style="background: #FF5582A6;">edges must be sorted by weight</mark>
