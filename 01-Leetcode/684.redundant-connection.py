@@ -9,9 +9,7 @@ class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
         n = len(edges)
         par = dict()
-
-        # technically is not effect the result but it helps find(n) faster (since tree is flat)
-        rank = dict()
+        rank = dict() # technically is not effect the result but it helps find(n) faster (since tree is flat)
 
         for i in range(1, n + 1):
             par[i] = i
