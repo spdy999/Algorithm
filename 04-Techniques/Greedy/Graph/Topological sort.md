@@ -2,12 +2,17 @@
 Project: Technique
 Sites:
   - https://neetcode.io/courses/advanced-algorithms/17
-BackLinks: 
+BackLinks:
+  - "[[@IND_Sorting]]"
 OS compatibility: 
-Note: 
-tags: 
+Note:
+  - Scheduling task
+tags:
+  - DAG
 Created: 2025-06-16
 Updated: 2025-06-16
 ---
 # Topological sort
 ---
+#DAG : Direct Acyclic Graph
+![[Topological sort 2025-06-16 03.40.44.excalidraw]]
