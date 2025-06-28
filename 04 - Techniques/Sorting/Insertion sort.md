@@ -1,3 +1,0 @@
-# Insertion sort
-
-![[/Untitled.png]]

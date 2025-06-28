@@ -4,4 +4,10 @@
 # But not these files
 !.gitignore
 !*.md
+!*.py
+!*.cpp
+!*.txt
 !*/
+
+# Ignore Readwise dir
+Readwise/**/*.md
