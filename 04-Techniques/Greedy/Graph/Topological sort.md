@@ -5,13 +5,14 @@ Sites:
 BackLinks:
   - "[[@IND_Sorting]]"
   - "[[Adjacency list]]"
+  - "[[DFS]]"
 OS compatibility: 
 Note:
   - Scheduling task
 tags:
   - DAG
 Created: 2025-06-16
-Updated: 2025-06-20
+Updated: 2025-07-04
 ---
 # Topological sort
 ---
