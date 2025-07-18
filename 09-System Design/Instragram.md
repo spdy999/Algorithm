@@ -1,7 +1,7 @@
 ---
-Updated: 2024-07-14
+Updated: 2025-07-19
 ---
-- [[Sharding]]
+- [[Replication and Sharding]]
 	- eg. sharding by ??? (image_id)
 - Cache system
 

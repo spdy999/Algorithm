@@ -2,12 +2,12 @@
 Project: Neetcode
 Progress: true
 Created: 2025-06-10
-Updated: 2025-06-10
+Updated: 2025-07-19
 Difficulty: 
 Time: 
 Space: 
 Topics:
-  - "[[Graph]]"
+  - "[[02-Data structures/Graph/@IND_Graph|@IND_Graph]]"
   - "[[Minimum Spanning Tree (MST)]]"
 Techniques:
   - "[[Prim]]"
