@@ -1,6 +1,7 @@
 # Generate Parenthesis
 
-![[nse-366577178169198418-Backtrack  Stack  Generate Parentheses_230210_010500 (1).jpg.jpg]].jpg.jpg)
+![[Generate Parenthesis.jpg]]
+
 
 ```python
 # https://www.youtube.com/watch?v=s9fokUqJ76A&ab_channel=NeetCode
