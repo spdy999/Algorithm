@@ -13,7 +13,7 @@ Techniques:
   - "[[@IND_2 pointers]]"
   - "[[04-Techniques/Sorting/Merge sort|Merge sort]]"
 Related problems:
-  - "[[01 - Leetcode/Neetcode/Quick Sort|Quick Sort]]"
+  - "[[Neetcode Quick Sort]]"
 Code: 
 Sites:
   - https://neetcode.io/courses/dsa-for-beginners/12
@@ -21,7 +21,7 @@ Walkthrough:
 Companies: 
 Note: 
 tags: 
-TODO: 
+TODO:
 ---
 # Quick sort
 ---

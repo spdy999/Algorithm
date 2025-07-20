@@ -3,7 +3,7 @@ Updated: 2024-07-14
 ---
 # Depth First Search (DFS)
 
-![[/Untitled.png]]%20153ce2c90d75441ba8d4a2d5be65eea6/Untitled.png)
+![[Singly Linked-List.png]]%20153ce2c90d75441ba8d4a2d5be65eea6/Untitled.png)
 
 - don't care about the best path just want to find the destination as fast as possible
 

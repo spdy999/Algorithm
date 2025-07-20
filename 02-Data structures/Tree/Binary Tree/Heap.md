@@ -4,7 +4,7 @@
 - A [[Complete tree]]
     
     
-    ![[/Untitled.png]]
+    ![[Singly Linked-List.png]]
 
 
 ## Max heap

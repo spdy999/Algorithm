@@ -16,7 +16,7 @@
 - certain terms “dominate” others
     - `O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(2^n) < O(n!)`
         
-        ![Untitled](03%20-%20BigO%20notation/Untitled.png)
+        ![Untitled](BigO%20notation.png)
       - log base 2  
     - ignore **low-order** term
     
