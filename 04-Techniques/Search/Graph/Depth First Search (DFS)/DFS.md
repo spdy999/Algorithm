@@ -1,5 +1,5 @@
 ---
-Updated: 2024-07-14
+Updated: 2025-07-21
 ---
 # Depth First Search (DFS)
 
@@ -169,7 +169,7 @@ self.info (the value of the node)
 # 1 2 3 4 5 6
 ```
 
-## **Postorder**
+## Postorder
 
 <aside>
 💡 (Left, Right, Root)
