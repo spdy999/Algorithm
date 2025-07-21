@@ -1,6 +1,8 @@
 # Linear search
 
-![[Singly Linked-List.png]]
+![[Linear search-1.png]]
+
+![[Linear search.png]]
 
 ---
 

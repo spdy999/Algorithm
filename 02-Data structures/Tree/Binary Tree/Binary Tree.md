@@ -6,7 +6,7 @@
 - Every node has 0, 1 or 2 children
 - [Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
 
-[[Binary search Tree [[(BST)]]]]
+[[Binary search Tree (BST)]]
 
 [[Heap]]
 

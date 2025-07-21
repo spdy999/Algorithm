@@ -1,11 +1,9 @@
 # Priority Queues
 
-> [[Max heap]]
-> 
+[[Heap#Max heap]]
 
 <aside>
 💡 Think of Emergency room 🚨 : hear attack 💔 > sneeze 🤧
-
 </aside>
 
 # In java lowest value = highest priority
