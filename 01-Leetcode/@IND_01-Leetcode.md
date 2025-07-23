@@ -299,6 +299,8 @@
 📄 [[01-Leetcode/424. Longest Repeating Character Replacement|424. Longest Repeating Character Replacement]]
 📄 [[01-Leetcode/424.longest-repeating-character-replacement (conflict 2024-04-29-15-47-43).py|424.longest-repeating-character-replacement (conflict 2024-04-29-15-47-43).py]]
 📄 [[01-Leetcode/424.longest-repeating-character-replacement.py|424.longest-repeating-character-replacement.py]]
+📄 [[01-Leetcode/474. Ones and Zeroes|474. Ones and Zeroes]]
+📄 [[01-Leetcode/494. Target Sum 2025-07-23 12.01.24.excalidraw|494. Target Sum 2025-07-23 12.01.24.excalidraw]]
 📄 [[01-Leetcode/494. Target Sum|494. Target Sum]]
 📄 [[01-Leetcode/509. Fibonacci Number-1.png|509. Fibonacci Number-1.png]]
 📄 [[01-Leetcode/509. Fibonacci Number.png|509. Fibonacci Number.png]]
