@@ -2,7 +2,7 @@
 Project: Leetcode
 Progress: false
 Created: 2025-05-29
-Updated: 2025-06-08
+Updated: 2025-07-26
 Difficulty: 
 Time: 
 Space: 
@@ -30,7 +30,7 @@ TODO: try memoization
 
 
 ```embed-python
-PATH: "vault://01-Leetcode/Neetcode/knapsack.py"
+PATH: "vault://01-Leetcode/Neetcode/neetcode-knapsack.py"
 LINES: "1-23"
 TITLE: "knapsack.py"
 ```
