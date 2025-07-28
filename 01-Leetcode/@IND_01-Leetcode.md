@@ -409,6 +409,7 @@
 📄 [[01-Leetcode/981.time-based-key-value-store.py|981.time-based-key-value-store.py]]
 📄 [[01-Leetcode/1046. Last Stone Weight|1046. Last Stone Weight]]
 📄 [[01-Leetcode/1046.last-stone-weight.py|1046.last-stone-weight.py]]
+📄 [[01-Leetcode/1049. Last Stone Weight II|1049. Last Stone Weight II]]
 📄 [[01-Leetcode/1137.n-th-tribonacci-number_loop.py|1137.n-th-tribonacci-number_loop.py]]
 📄 [[01-Leetcode/1137.n-th-tribonacci-number_rec_self.py|1137.n-th-tribonacci-number_rec_self.py]]
 📄 [[01-Leetcode/1137.n-th-tribonacci-number_rec.py|1137.n-th-tribonacci-number_rec.py]]
