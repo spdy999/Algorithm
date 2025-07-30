@@ -1,12 +1,14 @@
 ---
 Project: Technique
 Sites: 
-BackLinks: "[[Decision Tree#Binary]]"
+BackLinks:
+  - "[[Decision Tree#Binary]]"
+  - "[[DP]]"
 OS compatibility: 
 Note: 
 tags: 
 Created: 2025-05-29
-Updated: 2025-07-26
+Updated: 2025-07-29
 ---
 # Knapsack
 ---
