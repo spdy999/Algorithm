@@ -5,10 +5,11 @@ BackLinks:
   - "[[Decision Tree#Binary]]"
   - "[[DP]]"
 OS compatibility: 
-Note: 
+Note:
+  - Each item can be selected at most once
 tags: 
 Created: 2025-05-29
-Updated: 2025-07-29
+Updated: 2025-08-03
 ---
 # Knapsack
 ---
