@@ -8,7 +8,7 @@ Note:
   - Each item can be selected multiple times
 tags: 
 Created: 2025-08-02
-Updated: 2025-08-03
+Updated: 2025-08-12
 ---
 # Unbounded Knapsack
 ---
