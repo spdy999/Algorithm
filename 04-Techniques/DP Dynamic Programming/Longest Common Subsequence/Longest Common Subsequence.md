@@ -13,4 +13,4 @@ Updated: 2025-08-13
 ---
 - LCS vs [[78. Subsets]]
 	- LCS = order matter
-	- Subset = order dosen't
+	- Subset = order doesn't matter
