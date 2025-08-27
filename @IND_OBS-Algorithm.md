@@ -15,7 +15,6 @@
 🗂️ ![[04-Techniques/@IND_04-Techniques|@IND_04-Techniques]]
 🗂️ ![[05-Math Trivia/@IND_05-Math Trivia|@IND_05-Math Trivia]]
 🗂️ ![[07-Omnivore/@IND_07-Omnivore|@IND_07-Omnivore]]
-🗂️ ![[09-System Design/@IND_09-System Design|@IND_09-System Design]]
 🗂️ ![[98-Glasp/@IND_98-Glasp|@IND_98-Glasp]]
 🗂️ ![[99 - Obsidian Templates/@IND_99 - Obsidian Templates|@IND_99 - Obsidian Templates]]
 🗂️ ![[Clippings/@IND_Clippings|@IND_Clippings]]
