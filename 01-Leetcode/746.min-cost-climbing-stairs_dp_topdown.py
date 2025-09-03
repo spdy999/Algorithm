@@ -9,15 +9,19 @@ class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         # Time: O(n)
         # Space: O(1)
-        
+
         n = len(cost)
-        for i in range(-3, -n-1, -1):
+        def rec(i):
+            if i == -1 or i == -2:
+                return
+            
+            rec(i + 1)
             a = cost[i + 1]
             b = cost[i + 2]
             cost[i] = min(cost[i] + a, cost[i] + b)
-        
-        return min(cost[0:2])
-
+            
+        rec(-n)
+        return min(cost[:2])
         
 # @lc code=end
 
