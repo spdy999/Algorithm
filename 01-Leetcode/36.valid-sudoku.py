@@ -21,9 +21,9 @@ class Solution:
                 if x == '.':
                     continue
                 sq = (r//3, c//3)
-                if (x in rows[r] or
-                    x in cols[c] or
-                    x in sqs[sq]):
+                if (x in rows[r] or # check row
+                    x in cols[c] or # check col
+                    x in sqs[sq]):  # check square
                     return False
                 
                 rows[r].add(x)
