@@ -315,7 +315,6 @@
 📄 [[01-Leetcode/474. Ones and Zeroes 2025-07-31 04.26.23.excalidraw|474. Ones and Zeroes 2025-07-31 04.26.23.excalidraw]]
 📄 [[01-Leetcode/474. Ones and Zeroes|474. Ones and Zeroes]]
 📄 [[01-Leetcode/474.ones-and-zeroes.py|474.ones-and-zeroes.py]]
-📄 [[01-Leetcode/480. Sliding Window Median 2025-09-07 04.36.16.excalidraw|480. Sliding Window Median 2025-09-07 04.36.16.excalidraw]]
 📄 [[01-Leetcode/480. Sliding Window Median|480. Sliding Window Median]]
 📄 [[01-Leetcode/494. Target Sum 2025-07-23 12.01.24.excalidraw|494. Target Sum 2025-07-23 12.01.24.excalidraw]]
 📄 [[01-Leetcode/494. Target Sum|494. Target Sum]]
