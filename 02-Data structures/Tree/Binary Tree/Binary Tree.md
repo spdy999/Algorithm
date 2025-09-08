@@ -1,7 +1,7 @@
 
 [Binary tree - Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
 
-![Untitled](02-Data%20structures/Tree/Binary%20Tree/Untitled.png)
+![Untitled](02-Data%20structures/Tree/Binary%20Tree/Binary%20search%20Tree%20(BST).png)
 
 - Every node has 0, 1 or 2 children
 - [Traversal](https://en.wikipedia.org/wiki/Tree_traversal)

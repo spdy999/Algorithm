@@ -4,7 +4,7 @@
 
 </aside>
 
-![[02-Data structures/Tree/Binary Tree/Untitled.png]]
+![[02-Data structures/Tree/Binary Tree/Binary search Tree (BST).png]]
 
 ![Untitled](02-Data%20structures/Tree/Binary%20Tree/Complete%20tree/Untitled%201.png)
 

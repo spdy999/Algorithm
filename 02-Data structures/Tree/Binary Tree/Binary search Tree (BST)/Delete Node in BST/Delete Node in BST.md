@@ -53,8 +53,8 @@ class Solution:
         return root
 ```
 
-![Untitled](02-Data%20structures/Tree/Binary%20Tree/Binary%20search%20Tree%20(BST)/Delete%20Node%20in%20BST/Untitled.png)
+![Untitled](Delete%20Node%20in%20BST.png)
 
-![Untitled](02-Data%20structures/Tree/Binary%20Tree/Binary%20search%20Tree%20(BST)/Delete%20Node%20in%20BST/Untitled%201.png)
+![Untitled](Delete%20Node%20in%20BST-1.png)
 
-![Untitled](02-Data%20structures/Tree/Binary%20Tree/Binary%20search%20Tree%20(BST)/Delete%20Node%20in%20BST/Untitled%202.png)
+![Untitled](Delete%20Node%20in%20BST-2.png)

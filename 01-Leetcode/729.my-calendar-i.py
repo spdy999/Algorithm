@@ -15,12 +15,12 @@ class TreeNode:
     def insert(self, startTime: int, endTime: int):
         cur = self
         while True:
-            if cur.end <= startTime:
+            if cur.end <= startTime: # insert to right (after)
                 if cur.right is None:
                     cur.right = TreeNode(startTime, endTime)
                     return True
                 cur = cur.right
-            elif endTime <= cur.start:
+            elif endTime <= cur.start: # insert to left (before)
                 if cur.left is None:
                     cur.left = TreeNode(startTime, endTime)
                     return True
