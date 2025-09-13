@@ -1,17 +1,18 @@
 ---
 Project: Technique
-Sites: 
+Sites:
 BackLinks:
   - "[[Greedy]]"
   - "[[Heap]]"
   - "[[BFS]]"
-OS compatibility: 
+OS compatibility:
 Note:
   - Find the shortest path from src to dst node
   - Don't need to use all nodes
-tags: 
+  - It is greedy
+tags:
 Created: 2025-05-29
-Updated: 2025-06-20
+Updated: 2025-09-12
 ---
 # Dijkstra
 ---

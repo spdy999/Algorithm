@@ -1,17 +1,17 @@
 ---
 Project: Technique
-Sites: 
+Sites:
 BackLinks:
   - "[[Heap#Min heap]]"
   - "[[Hashmap]]"
   - "[[Greedy]]"
   - "[[Adjacency list]]"
   - "[[BFS]]"
-OS compatibility: 
-Note: 
-tags: 
+OS compatibility:
+Note:
+tags:
 Created: 2025-05-29
-Updated: 2025-05-30
+Updated: 2025-09-12
 ---
 # Dijkstra Neetcode
 ---
