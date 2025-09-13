@@ -39,5 +39,6 @@ class Solution:
 assert Solution().networkDelayTime([[2, 1, 1], [2, 3, 1], [3, 4, 1]], 4, 2) == 2
 assert Solution().networkDelayTime([[1, 2, 1]], 2, 1) == 1
 assert Solution().networkDelayTime([[1, 2, 1]], 2, 2) == -1
+assert Solution().networkDelayTime([[1, 2, 1], [2, 3, 1], [1, 4, 4], [3, 4, 1]], 4, 1) == 3
 
 # @lc code=end
