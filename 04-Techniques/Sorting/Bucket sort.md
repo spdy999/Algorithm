@@ -17,6 +17,8 @@ Walkthrough:
 Companies:
 Note:
   - Code is quite easy to understand
+  - Good for small range number. not like 1 to 1million but 1 to 100 somehow
+  - Unstable sort
 tags:
 TODO:
 ---
