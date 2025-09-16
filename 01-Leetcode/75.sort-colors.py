@@ -15,10 +15,10 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         # Bucket sort
-        bucket = Counter(nums)
-        maxx = max(nums) + 1
+        bucket = Counter(nums) # O(n)
+        maxx = max(nums) + 1 # O(n)
         j = 0
-        for i in range(maxx):
+        for i in range(maxx): # O(n)
             if i in bucket:
                 for _ in range(bucket[i]):
                     nums[j] = i

@@ -2,21 +2,23 @@
 Project: Leetcode
 Progress: true
 Created: 2025-05-17
-Updated: 2025-06-02
-Difficulty: 
+Updated: 2025-09-17
+Difficulty:
 Time: O(n)
-Space: 
-Topics: 
-Techniques: 
+Space:
+  - O(n)
+Topics:
+Techniques:
+  - "[[Hashmap]]"
 Related problems: "[[75. Sort Colors]]"
-Code: 
-Sites: 
-Walkthrough: 
-Companies: 
+Code:
+Sites:
+Walkthrough:
+Companies:
 Note:
   - Code is quite easy to understand
-tags: 
-TODO: 
+tags:
+TODO:
 ---
 # Bucket sort
 ---
