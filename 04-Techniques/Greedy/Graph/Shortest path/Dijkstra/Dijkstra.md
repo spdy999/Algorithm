@@ -3,7 +3,7 @@ Project: Technique
 Sites:
 BackLinks:
   - "[[Greedy]]"
-  - "[[Heap]]"
+  - "[[Heap#Min heap]]"
   - "[[BFS]]"
 OS compatibility:
 Note:
@@ -12,7 +12,7 @@ Note:
   - It is greedy
 tags:
 Created: 2025-05-29
-Updated: 2025-09-12
+Updated: 2025-09-14
 ---
 # Dijkstra
 ---
@@ -30,6 +30,6 @@ Updated: 2025-09-12
 
 
 
-![[Dijkstra 2.png]]
+## [[Adjacency list]]
 
-- [[Adjacency list]]
+![[Dijkstra 2.png]]
