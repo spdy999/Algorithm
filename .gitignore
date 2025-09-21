@@ -11,3 +11,9 @@
 
 # Ignore Readwise dir
 Readwise/**/*.md
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
