@@ -10,6 +10,8 @@
 📄 [[Pasted image 20231217225756.png|Pasted image 20231217225756.png]]
 📄 [[Pasted image 20231217225833.png|Pasted image 20231217225833.png]]
 📄 [[Pasted Image 20250906165602_551.png|Pasted Image 20250906165602_551.png]]
+📄 [[Quiz 1|Quiz 1]]
+📄 [[Quiz 2|Quiz 2]]
 📄 [[test.py|test.py]]
 📄 [[Untitled.canvas|Untitled.canvas]]
 🗂️ ![[01-Leetcode/@IND_01-Leetcode|@IND_01-Leetcode]]

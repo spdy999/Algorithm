@@ -1,7 +1,7 @@
 ---
-epoch: 1758459643893
+epoch: 1758459643000
 modelKey: gemini-2.5-flash|google
-
+topic: "Summary Request Issues"
 
 
 tags:
@@ -12,8 +12,6 @@ tags:
 [Timestamp: 2025/09/21 20:00:43]
 
 **ai**: 400 Your organization must be verified to stream this model. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.
-
-
 [Timestamp: 2025/09/21 20:00:45]
 
 **user**: Summary
