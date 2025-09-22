@@ -1,0 +1,31 @@
+---
+epoch: 1758459643000
+modelKey: gemini-2.5-flash|google
+topic: "Summary Request Issues"
+
+
+tags:
+  - copilot-conversation
+---
+
+**user**: Summray
+[Timestamp: 2025/09/21 20:00:43]
+
+**ai**: 400 Your organization must be verified to stream this model. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.
+[Timestamp: 2025/09/21 20:00:45]
+
+**user**: Summary
+[Timestamp: 2025/09/21 20:03:43]
+
+**ai**: Please tell me what you would like me to summarize. For example, you could provide:
+
+*   A piece of text
+*   A note from your vault (e.g., "Summarize [[My Research Note]]")
+*   A specific topic you want information about
+[Timestamp: 2025/09/21 20:03:46]
+
+**user**: summary this note
+[Timestamp: 2025/09/21 20:03:59]
+
+**ai**: I need the content of the note to summarize it. Please provide the text of the note, or tell me which note you'd like me to summarize (e.g., "Summarize [[My Meeting Notes]]").
+[Timestamp: 2025/09/21 20:04:01]
