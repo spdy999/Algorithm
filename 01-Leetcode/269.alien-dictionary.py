@@ -6,7 +6,7 @@ class Solution:
             w1, w2 = words[i], words[i+1]
             minLen = min(len(w1), len(w2))
             # print(w1, w2)
-            if len(w1) > len(w2) and w1[:minLen] == w2[:minLen]:
+            if len(w1) > len(w2) and w1[:minLen] == w2[:minLen]: # apes, ape <== wrong lexicographically
                 return ""
             for j in range(minLen):
                 if w1[j] != w2[j]:
