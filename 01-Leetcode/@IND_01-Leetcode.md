@@ -414,7 +414,6 @@
 📄 [[01-Leetcode/778.swim-in-rising-water.py|778.swim-in-rising-water.py]]
 📄 [[01-Leetcode/846. Hand of Straights 2024-10-02 03.56.57.excalidraw|846. Hand of Straights 2024-10-02 03.56.57.excalidraw]]
 📄 [[01-Leetcode/846. Hand of Straights|846. Hand of Straights]]
-📄 [[01-Leetcode/851. Loud and Rich 2|851. Loud and Rich 2]]
 📄 [[01-Leetcode/851. Loud and Rich|851. Loud and Rich]]
 📄 [[01-Leetcode/853. Car Fleet 2024-06-17 03.32.17.excalidraw|853. Car Fleet 2024-06-17 03.32.17.excalidraw]]
 📄 [[01-Leetcode/853. Car Fleet|853. Car Fleet]]
