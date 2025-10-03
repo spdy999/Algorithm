@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def foreignDictionary(self, words: List[str]) -> str:
         adj = { c: set() for w in words for c in w }
@@ -33,3 +36,7 @@ class Solution:
 
         res.reverse()
         return "".join(res)
+
+s = Solution()
+assert s.foreignDictionary(["hrn","hrf","er","enn","rfnn"]) == "hernf"
+assert s.foreignDictionary(["z","o"]) == "zo"
