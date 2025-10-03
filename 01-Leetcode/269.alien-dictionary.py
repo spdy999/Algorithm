@@ -29,7 +29,7 @@ class Solution:
 
         for c in adj:
             if dfs(c):
-                return ""
+                return "" # detected the loop
 
         res.reverse()
         return "".join(res)
