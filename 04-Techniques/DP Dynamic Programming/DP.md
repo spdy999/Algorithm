@@ -12,7 +12,7 @@
 [[Divide and Conquer (D&C)]]
 
 # Two way
-## #Bottom-Up 
+## #Top-Down
 **Memoization, Recursive**(easier to write 🙄), slower
 
 [[509.fibonacci-number_rec.py]]
@@ -32,7 +32,7 @@ class Solution:
         return rec(n)
 ```
 
-## #Top-Down 
+## #Bottom-Up 
 **Tabulation, Loop,** faster (no recursion)
 
 [[509.fibonacci-number_loop.py]]
@@ -54,8 +54,8 @@ class Solution:
 ```
 
 Summary:
-- #Bottom-Up  => Recursion, slow
-- #Top-Down  => Iteration, fast
+- #Top-Down  => Recursion, slow
+- #Bottom-Up   => Iteration, fast
 
 Comparison
 https://medium.com/enjoy-algorithm/top-down-vs-bottom-up-approach-in-dynamic-programming-53b917bfbe0
