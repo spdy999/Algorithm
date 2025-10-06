@@ -7,6 +7,7 @@
 !*.py
 !*.cpp
 !*.txt
+!*.base
 !*/
 
 # Ignore Readwise dir
