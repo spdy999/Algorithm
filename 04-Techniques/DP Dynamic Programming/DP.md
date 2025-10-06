@@ -32,7 +32,7 @@ class Solution:
         return rec(n)
 ```
 
-## #Bottom-Up 
+## #Top-Down 
 **Tabulation, Loop,** faster (no recursion)
 
 [[509.fibonacci-number_loop.py]]
