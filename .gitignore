@@ -8,6 +8,8 @@
 !*.cpp
 !*.txt
 !*.base
+!*.png
+!*.jpg
 !*/
 
 # Ignore Readwise dir
