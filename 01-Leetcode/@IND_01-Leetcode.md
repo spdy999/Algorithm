@@ -149,6 +149,7 @@
 📄 [[01-Leetcode/110. Balanced Binary Tree|110. Balanced Binary Tree]]
 📄 [[01-Leetcode/110.balanced-binary-tree.py|110.balanced-binary-tree.py]]
 📄 [[01-Leetcode/115. Distinct Subsequences 2025-10-11 17.07.53.excalidraw|115. Distinct Subsequences 2025-10-11 17.07.53.excalidraw]]
+📄 [[01-Leetcode/115. Distinct Subsequences.jpg|115. Distinct Subsequences.jpg]]
 📄 [[01-Leetcode/115. Distinct Subsequences|115. Distinct Subsequences]]
 📄 [[01-Leetcode/115.distinct-subsequences.py|115.distinct-subsequences.py]]
 📄 [[01-Leetcode/118. Pascal's Triangle.mht|118. Pascal's Triangle.mht]]
