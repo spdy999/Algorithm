@@ -13,8 +13,12 @@ views:
       - file.mtime
       - file.ctime
       - file.folder
+      - BackLinks
+      - Progress
     sort:
       - property: file.mtime
+        direction: DESC
+      - property: file.ctime
         direction: DESC
     columnSize:
       file.name: 471
